@@ -1,0 +1,924 @@
+https://www.daraz.pk/
+--------------------------------------------------
+// TODO: alias for loader , need update the loader and rm the alias
+//member.daraz.pk/user/account#/ class="account-item-anchor">
+//my.daraz.pk/customer/order/index/ class="account-item-anchor">
+//my.daraz.pk/wishlist/index class="account-item-anchor">
+//my.daraz.pk/customer/myReview/my-reviews class="account-item-anchor">
+//my.daraz.pk/customer/returns/index?requestType=return class="account-item-anchor">
+//member.daraz.pk/user/logout class="account-item-anchor">
+//www.daraz.pk/smartphones/>
+//www.daraz.pk/featurephones/>
+//www.daraz.pk/tablets/>
+//www.daraz.pk/laptops/>
+//www.daraz.pk/desktop-computer/>
+//www.daraz.pk/gaming-consoles/>
+//www.daraz.pk/camcorders/>
+//www.daraz.pk/security-cameras/>
+//www.daraz.pk/dslr-hybrid-cameras/>
+//www.daraz.pk/insurance-protection/>
+//www.daraz.pk/used-computer-laptops/>
+//www.daraz.pk/refurbished-computer-laptops/>
+//www.daraz.pk/mobiles-tablets-accessories/>
+//www.daraz.pk/audio/>
+//www.daraz.pk/wearable-technology/>
+//www.daraz.pk/gaming-accessories/>
+//www.daraz.pk/camera-accessories/>
+//www.daraz.pk/computing-peripherals-accessories/>
+//www.daraz.pk/computing-storage/>
+//www.daraz.pk/multi-function-printers/>
+//www.daraz.pk/components-spare-parts/>
+//www.daraz.pk/networking/>
+//www.daraz.pk/consumer-electronics/>
+//www.daraz.pk/tv-accessories/>
+//www.daraz.pk/home-appliances/>
+//www.daraz.pk/small-kitchen-appliances/>
+//www.daraz.pk/cooling-heating/>
+//www.daraz.pk/floorcare-appliances/>
+//www.daraz.pk/garment-care/>
+//www.daraz.pk/health-beauty-tools/>
+//www.daraz.pk/air-conditioners/>
+//www.daraz.pk/bath-body/>
+//www.daraz.pk/fragrances/>
+//www.daraz.pk/hair-care/>
+//www.daraz.pk/womens-make-up/>
+//www.daraz.pk/mens-grooming/>
+//www.daraz.pk/personal-care/>
+//www.daraz.pk/skincare/>
+//www.daraz.pk/sexual-wellness/>
+//www.daraz.pk/baby-toddler-diapers-potties/>
+//www.daraz.pk/formula-milk/>
+//www.daraz.pk/feeding/>
+//www.daraz.pk/baby-gear/>
+//www.daraz.pk/baby-toddler-toys-games/>
+//www.daraz.pk/remote-control-toys-and-play-vehicles/>
+//www.daraz.pk/sports-and-outdoor-play/>
+//www.daraz.pk/baby-toddler-nursery/>
+//www.daraz.pk/baby-personal-care/>
+//baby-soaps-cleaners/">
+//www.daraz.pk/baby-clothings-accessories/>
+//www.daraz.pk/toys-games/>
+//toys-action-figures-collectibles/">
+//toys-arts-craft/">
+//www.daraz.pk/beverages/>
+//www.daraz.pk/buy-fresh-produce/>
+//www.daraz.pk/breakfast/>
+//www.daraz.pk/canned-packaged-foods/>
+//www.daraz.pk/groceries-dairy-chilled/>
+//www.daraz.pk/laundry-and-home-care-4/>
+//www.daraz.pk/cats-supplies/>
+//www.daraz.pk/dogs-supplies/>
+//www.daraz.pk/pet-supplies-fish/>
+//www.daraz.pk/grocer-others/>
+//www.daraz.pk/groceries-frozen/>
+//www.daraz.pk/bath/>
+//www.daraz.pk/bedding-2/>
+//www.daraz.pk/home-decoration/>
+//www.daraz.pk/furniture/>
+//www.daraz.pk/kitchen-dining/>
+//www.daraz.pk/lighting/>
+//www.daraz.pk/laundry-cleaning/>
+//www.daraz.pk/home-improvement-tools/>
+//www.daraz.pk/stationery-craft/>
+//www.daraz.pk/books-games-music/>
+//daraz.pk/charity-donation/>
+//www.daraz.pk/womens-traditional-clothing/>
+//www.daraz.pk/womens-kurtas-shalwar-kameez/>
+//www.daraz.pk/womens-abayas-and-hijabs/>
+//www.daraz.pk/tops/>
+//www.daraz.pk/womens-lingerie-sleepwear/>
+//www.daraz.pk/womens-nightwear/>
+//www.daraz.pk/womens-pants-trousers/>
+//www.daraz.pk/womens-dresses/>
+//www.daraz.pk/womens-sweaters/>
+//www.daraz.pk/womens-shoes/>
+//www.daraz.pk/girls-clothing/>
+//www.daraz.pk/girls-shoes/>
+//www.daraz.pk/mens-t-shirts/>
+//www.daraz.pk/mens-shirts/>
+//www.daraz.pk/mens-pants-trousers/>
+//www.daraz.pk/mens-shorts/>
+//www.daraz.pk/mens-traditional-clothing/>
+//www.daraz.pk/men-sweaters-cardigans/>
+//www.daraz.pk/clothing-men-underwear/>
+//www.daraz.pk/mens-shoes/>
+//www.daraz.pk/men-accessories/>
+//www.daraz.pk/boys-clothing/>
+//www.daraz.pk/boys-shoes/>
+//www.daraz.pk/fashion-boys-accessories/>
+//www.daraz.pk/mens-watches/>
+//www.daraz.pk/womens-watches/>
+//www.daraz.pk/kids-watches-wsj/>
+//www.daraz.pk/womens-bags/?spm=a2a0e.searchlistcategory.cate_10.10.752f2e2edTH6RZ>
+//www.daraz.pk/mens-bags/>
+//www.daraz.pk/travels/?spm=a2a0e.searchlistcategory.breadcrumb.3.102f7e62jWU6bc>
+//www.daraz.pk/womens-jewellery/>
+//www.daraz.pk/mens-jewellery/>
+//www.daraz.pk/womens-accessories/?spm=a2a0e.pdp.breadcrumb.3.690754aaiEaRSQ>
+//www.daraz.pk/sunglasses/>
+//www.daraz.pk/exercise-fitness/>
+//www.daraz.pk/sp-nutrition/>
+//www.daraz.pk/shoes-clothing/>
+//www.daraz.pk/team-sports/>
+//www.daraz.pk/racket-sports/>
+//www.daraz.pk/outdoor-activities/>
+//www.daraz.pk/exercise-bands/>
+//www.daraz.pk/sports-outdoors-accessories/>
+//www.daraz.pk/automotive/>
+//www.daraz.pk/automotive-service-installations/>
+//www.daraz.pk/oils-fluids/>
+//www.daraz.pk/automotive-exterior-vehicle-care/>
+//www.daraz.pk/car-electronics-accessories/>
+//www.daraz.pk/motorcycle/>
+//www.daraz.pk/motorcycle-parts-spares/>
+//www.daraz.pk/motorcycle-riding-gear/>
+//www.daraz.pk/motor-cars/>
+//www.daraz.pk/wow/i/pk/landingpage/flash-sale?wh_weex=true&amp;wx_navbar_transparent=true&amp;scm=1003.4.icms-zebra-5029921-2824236.OTHER_5360388823_2475751&quot;</textarea>
+//skip
+// start - Online Alipay Umid
+// end - online
+// get umidToken
+// get user action information(UA)
+<!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+<!-- aone 16851167 -->
+<!-- start Group Umid -->
+<!-- end Group Umid -->
+
+https://www.daraz.pk/
+--------------------------------------------------
+// TODO: alias for loader , need update the loader and rm the alias
+//member.daraz.pk/user/account#/ class="account-item-anchor">
+//my.daraz.pk/customer/order/index/ class="account-item-anchor">
+//my.daraz.pk/wishlist/index class="account-item-anchor">
+//my.daraz.pk/customer/myReview/my-reviews class="account-item-anchor">
+//my.daraz.pk/customer/returns/index?requestType=return class="account-item-anchor">
+//member.daraz.pk/user/logout class="account-item-anchor">
+//www.daraz.pk/smartphones/>
+//www.daraz.pk/featurephones/>
+//www.daraz.pk/tablets/>
+//www.daraz.pk/laptops/>
+//www.daraz.pk/desktop-computer/>
+//www.daraz.pk/gaming-consoles/>
+//www.daraz.pk/camcorders/>
+//www.daraz.pk/security-cameras/>
+//www.daraz.pk/dslr-hybrid-cameras/>
+//www.daraz.pk/insurance-protection/>
+//www.daraz.pk/used-computer-laptops/>
+//www.daraz.pk/refurbished-computer-laptops/>
+//www.daraz.pk/mobiles-tablets-accessories/>
+//www.daraz.pk/audio/>
+//www.daraz.pk/wearable-technology/>
+//www.daraz.pk/gaming-accessories/>
+//www.daraz.pk/camera-accessories/>
+//www.daraz.pk/computing-peripherals-accessories/>
+//www.daraz.pk/computing-storage/>
+//www.daraz.pk/multi-function-printers/>
+//www.daraz.pk/components-spare-parts/>
+//www.daraz.pk/networking/>
+//www.daraz.pk/consumer-electronics/>
+//www.daraz.pk/tv-accessories/>
+//www.daraz.pk/home-appliances/>
+//www.daraz.pk/small-kitchen-appliances/>
+//www.daraz.pk/cooling-heating/>
+//www.daraz.pk/floorcare-appliances/>
+//www.daraz.pk/garment-care/>
+//www.daraz.pk/health-beauty-tools/>
+//www.daraz.pk/air-conditioners/>
+//www.daraz.pk/bath-body/>
+//www.daraz.pk/fragrances/>
+//www.daraz.pk/hair-care/>
+//www.daraz.pk/womens-make-up/>
+//www.daraz.pk/mens-grooming/>
+//www.daraz.pk/personal-care/>
+//www.daraz.pk/skincare/>
+//www.daraz.pk/sexual-wellness/>
+//www.daraz.pk/baby-toddler-diapers-potties/>
+//www.daraz.pk/formula-milk/>
+//www.daraz.pk/feeding/>
+//www.daraz.pk/baby-gear/>
+//www.daraz.pk/baby-toddler-toys-games/>
+//www.daraz.pk/remote-control-toys-and-play-vehicles/>
+//www.daraz.pk/sports-and-outdoor-play/>
+//www.daraz.pk/baby-toddler-nursery/>
+//www.daraz.pk/baby-personal-care/>
+//baby-soaps-cleaners/">
+//www.daraz.pk/baby-clothings-accessories/>
+//www.daraz.pk/toys-games/>
+//toys-action-figures-collectibles/">
+//toys-arts-craft/">
+//www.daraz.pk/beverages/>
+//www.daraz.pk/buy-fresh-produce/>
+//www.daraz.pk/breakfast/>
+//www.daraz.pk/canned-packaged-foods/>
+//www.daraz.pk/groceries-dairy-chilled/>
+//www.daraz.pk/laundry-and-home-care-4/>
+//www.daraz.pk/cats-supplies/>
+//www.daraz.pk/dogs-supplies/>
+//www.daraz.pk/pet-supplies-fish/>
+//www.daraz.pk/grocer-others/>
+//www.daraz.pk/groceries-frozen/>
+//www.daraz.pk/bath/>
+//www.daraz.pk/bedding-2/>
+//www.daraz.pk/home-decoration/>
+//www.daraz.pk/furniture/>
+//www.daraz.pk/kitchen-dining/>
+//www.daraz.pk/lighting/>
+//www.daraz.pk/laundry-cleaning/>
+//www.daraz.pk/home-improvement-tools/>
+//www.daraz.pk/stationery-craft/>
+//www.daraz.pk/books-games-music/>
+//daraz.pk/charity-donation/>
+//www.daraz.pk/womens-traditional-clothing/>
+//www.daraz.pk/womens-kurtas-shalwar-kameez/>
+//www.daraz.pk/womens-abayas-and-hijabs/>
+//www.daraz.pk/tops/>
+//www.daraz.pk/womens-lingerie-sleepwear/>
+//www.daraz.pk/womens-nightwear/>
+//www.daraz.pk/womens-pants-trousers/>
+//www.daraz.pk/womens-dresses/>
+//www.daraz.pk/womens-sweaters/>
+//www.daraz.pk/womens-shoes/>
+//www.daraz.pk/girls-clothing/>
+//www.daraz.pk/girls-shoes/>
+//www.daraz.pk/mens-t-shirts/>
+//www.daraz.pk/mens-shirts/>
+//www.daraz.pk/mens-pants-trousers/>
+//www.daraz.pk/mens-shorts/>
+//www.daraz.pk/mens-traditional-clothing/>
+//www.daraz.pk/men-sweaters-cardigans/>
+//www.daraz.pk/clothing-men-underwear/>
+//www.daraz.pk/mens-shoes/>
+//www.daraz.pk/men-accessories/>
+//www.daraz.pk/boys-clothing/>
+//www.daraz.pk/boys-shoes/>
+//www.daraz.pk/fashion-boys-accessories/>
+//www.daraz.pk/mens-watches/>
+//www.daraz.pk/womens-watches/>
+//www.daraz.pk/kids-watches-wsj/>
+//www.daraz.pk/womens-bags/?spm=a2a0e.searchlistcategory.cate_10.10.752f2e2edTH6RZ>
+//www.daraz.pk/mens-bags/>
+//www.daraz.pk/travels/?spm=a2a0e.searchlistcategory.breadcrumb.3.102f7e62jWU6bc>
+//www.daraz.pk/womens-jewellery/>
+//www.daraz.pk/mens-jewellery/>
+//www.daraz.pk/womens-accessories/?spm=a2a0e.pdp.breadcrumb.3.690754aaiEaRSQ>
+//www.daraz.pk/sunglasses/>
+//www.daraz.pk/exercise-fitness/>
+//www.daraz.pk/sp-nutrition/>
+//www.daraz.pk/shoes-clothing/>
+//www.daraz.pk/team-sports/>
+//www.daraz.pk/racket-sports/>
+//www.daraz.pk/outdoor-activities/>
+//www.daraz.pk/exercise-bands/>
+//www.daraz.pk/sports-outdoors-accessories/>
+//www.daraz.pk/automotive/>
+//www.daraz.pk/automotive-service-installations/>
+//www.daraz.pk/oils-fluids/>
+//www.daraz.pk/automotive-exterior-vehicle-care/>
+//www.daraz.pk/car-electronics-accessories/>
+//www.daraz.pk/motorcycle/>
+//www.daraz.pk/motorcycle-parts-spares/>
+//www.daraz.pk/motorcycle-riding-gear/>
+//www.daraz.pk/motor-cars/>
+//www.daraz.pk/wow/i/pk/landingpage/flash-sale?wh_weex=true&amp;wx_navbar_transparent=true&amp;scm=1003.4.icms-zebra-5029921-2824236.OTHER_5360388823_2475751&quot;</textarea>
+//skip
+// start - Online Alipay Umid
+// end - online
+// get umidToken
+// get user action information(UA)
+<!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+<!-- aone 16851167 -->
+<!-- start Group Umid -->
+<!-- end Group Umid -->
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/calendar/about/
+--------------------------------------------------
+/** Localized Background Images */
+<!-- A/B links -->
+<!-- Sign in/download -->
+<!-- Intro -->
+<!-- Sections -->
+
+http://www.google.com/intl/en/policies/privacy/
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/calendar/about/
+--------------------------------------------------
+/** Localized Background Images */
+<!-- A/B links -->
+<!-- Sign in/download -->
+<!-- Intro -->
+<!-- Sections -->
+
+http://www.google.com/intl/en/policies/privacy/
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+//s-v6exp1-ds.metric.gstatic.com/gen_204?ip\x3d111.68.102.12\\u0026ts\x3d1612984225862934\\u0026auth\x3d6ywfsln5p4pvne2opszid6ndxpuecbj3\x22},\x22jsa\x22:{\x22csi\x22:true,\x22csir\x22:100},\x22lu\x22:{},\x22mUpTid\x22:{},\x22mu\x22:{\x22murl\x22:\x22https://adservice.google.com/adsid/google/ui\x22},\x22sb_wiz\x22:{\x22rfs\x22:[],\x22scq\x22:\x22\x22,\x22stok\x22:\x229PVUkWz-gbtd88krrFW0HEb6nek\x22},\x22sf\x22:{},\x22sonic\x22:{},\x22spch\x22:{\x22ae\x22:\x22Please check your microphone.  \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003ELearn more\\u003C/a\\u003E\x22,\x22hl\x22:\x22en-PK\x22,\x22im\x22:\x22Click \\u003Cb\\u003EAllow\\u003C/b\\u003E to start voice search\x22,\x22iw\x22:\x22Waiting...\x22,\x22lm\x22:\x22Listening...\x22,\x22lu\x22:\x22%1$s voice search not available\x22,\x22mb\x22:false,\x22ne\x22:\x22No Internet connection\x22,\x22nt\x22:\x22Didn\x27t get that. \\u003Cspan\\u003ETry again\\u003C/span\\u003E\x22,\x22nv\x22:\x22Please check your microphone and audio levels.  \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003ELearn more\\u003C/a\\u003E\x22,\x22pe\x22:\x22Voice search has been turned off.  \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003EDetails\\u003C/a\\u003E\x22,\x22rm\x22:\x22Speak now\x22}}';google.pmc=JSON.parse(pmc);})();(function(){var r=['sb_wiz','aa','abd','async','dvl','ipv6','lu','mUpTid','mu','sf','sonic','spch'];google.plm(r);})();(function(){var m=['Ad17vk','[\x22psy-ab\x22,\x22gws-wiz\x22,\x22\x22,\x22\x22,null,1,0,0,11,\x22en\x22,\x229PVUkWz-gbtd88krrFW0HEb6nek\x22,\x22\x22,\x22oS8kYOTHMfy71fAPofCQWA\x22,0,\x22en-PK\x22,null,null,null,0,null,3,5,null,null,-1,null,null,null,\x22\x22,-1,0,null,0,null,null,1,null,0,null,null,0,0,1800000,1,0,0,8,6,null,null,null,null,null,0.0,0,null,null,null,600,0,null,null,null,null,null,1,null,0,0,0,0.1,null,0,0,null,0,0,100,0,null,1.15,0,0,-1,null,0,0,null,0,0,0,9,0,null,0,12,0,null,null,0,0,0]\n','Ad17vo','[null,null,1,30000,null,null,null,2,null,null,3,null,null,null,null,null,1,null,null,null,null,null,null,[31.5745649,74.3476929]\n,null,null,null,null,0,null,null,null,null,null,null,null,0,\x221612984225\x22,null,null,null,null,null,1,null,null,[\x2286400000\x22,\x22604800000\x22,2.0]\n,null,1,21600000,null,1]\n'];
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/calendar/about/
+--------------------------------------------------
+/** Localized Background Images */
+<!-- A/B links -->
+<!-- Sign in/download -->
+<!-- Intro -->
+<!-- Sections -->
+
+http://www.google.com/intl/en/policies/privacy/
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/setprefs?sig=0_ZO1HPg6TBwzUvy-7rErEmG7bTN8%3D&hl=ps&source=homepage&sa=X&ved=0ahUKEwiM1Of5guDuAhVVkFwKHTpFAx8Q2ZgBCA8
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:right;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-right:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-right:0;margin-left:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-right:28px;margin-top:16px;position:absolute;right:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-left:0}#Gm4Vke{text-align:left}#mb-ilang{margin-right:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-right:16px;padding-left:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:-1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{right:0}.UVgjof .jfk-radiobutton{display:block;padding-right:0}.UVgjof .jfk-checkbox{margin-right:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{right:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="GtZNGzNcqrUn3Jfzzzlxdw==">(function(){window.google={kEI:'MDAkYN2RK5-s5NoPs9OfoAk',kEXPI:'31',kBL:'yH2-'};google.sn='web';google.kHL='ps-PK';})();(function(){
+
+http://www.google.com/history/optout?hl=ps-PK
+--------------------------------------------------
+/*"],"FdrFJe":"1207283421922612446","Im6cmf":"/history/_/SearchCustomizationUi","LVIXXb":1,"LoQv7e":true,"MT7f9b":[],"QrtxK":"","S06Grb":"","S1NZmd":false,"Yllh3e":"%.@.1612984372563343,182429020,537520134]\n","cfb2h":"boq_footprintsmyactivityuiserver_20210209.05_p0","eptZe":"/history/_/SearchCustomizationUi/","fPDxwd":[1763433,1772879],"gGcLoe":false,"ikfjnc":[],"nQyAE":{"BqKDUb":"true","i8G3uc":"false","schyHd":"false","MewNVb":"true","hpib0d":"","j4dwod":"false","P3cCFb":"","nhNyTb":"UA-63711172-6","gVlxcb":"","HNsdrd":"","HyTcA":"","RdCS4":"","PQB7nd":"true","oAns1":"false","Sv1bN":"true","CjMgTe":"false","LPP0Ke":"false","OEFXhc":"","wcLcde":"false","tBSlob":"false","Ilr02d":"false","gnkERd":"false","AoFpWc":"false","L12WE":"false","efUU2b":"false","vgkWnf":"true","bwARGe":"true","LplCQc":"false","ewJDhd":"false","PzFhFb":"false"},"qwAQke":"SearchCustomizationUi","rtQCxc":-300,"uS02ke":"NDAkYI-xItzK_gaG0KeAAg","vXmutd":"%.@.\"PK\",\"ZZ\",\"b0RmDA\\u003d\\u003d\"]\n","w2btAe":"%.@.null,null,\"\",true,null,null,true,false]\n","zChJod":"%.@.]\n"};</script><script nonce="ePwcOcn/llLEPeAdhP7IXw">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*# sourceURL=/_/mss/boq-footprints/_/ss/k=boq-footprints.SearchCustomizationUi.rRKTp7f-ZbE.L.B1.O/am=BAg/d=1/ed=1/ct=zgms/rs=AJJuxJYtncYUU742YiguaeoLo1Jq9rqipA/m=optoutview,_b,_tp */
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2)format('woff2');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvr9oS_a.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv39oS_a.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvH9oS_a.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvD9oS_a.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79oQ.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style><script nonce="ePwcOcn/llLEPeAdhP7IXw">(function(){/*
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
+--------------------------------------------------
+<!-- Open graph for facebook -->
+<!-- Twitter card -->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Cookie Consent Bar -->
+<!-- End Google Cookie Consent Bar -->
+<!-- material design icons -->
+<!-- Social icons -->
+<!-- hercules icons -->
+
+http://www.google.com/about/search-ads-360/
+--------------------------------------------------
+//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+//www.google.com/><span id=logo aria-label=Google></span></a>
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/setprefs?sig=0_ZO1HPg6TBwzUvy-7rErEmG7bTN8%3D&hl=ps&source=homepage&sa=X&ved=0ahUKEwiM1Of5guDuAhVVkFwKHTpFAx8Q2ZgBCA8
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:right;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-right:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-right:0;margin-left:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-right:28px;margin-top:16px;position:absolute;right:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-left:0}#Gm4Vke{text-align:left}#mb-ilang{margin-right:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-right:16px;padding-left:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:-1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{right:0}.UVgjof .jfk-radiobutton{display:block;padding-right:0}.UVgjof .jfk-checkbox{margin-right:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{right:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="yzLXgwoRN28X1QR05yzqKQ==">(function(){window.google={kEI:'cDAkYKa4CvXm5NoPp5qBoAQ',kEXPI:'31',kBL:'yH2-'};google.sn='web';google.kHL='ps-PK';})();(function(){
+
+http://www.google.com/history/optout?hl=ps-PK
+--------------------------------------------------
+/*"],"FdrFJe":"6810871175652056797","Im6cmf":"/history/_/SearchCustomizationUi","LVIXXb":1,"LoQv7e":true,"MT7f9b":[],"QrtxK":"","S06Grb":"","S1NZmd":false,"Yllh3e":"%.@.1612984435026960,173886033,2701721287]\n","cfb2h":"boq_footprintsmyactivityuiserver_20210209.05_p0","eptZe":"/history/_/SearchCustomizationUi/","fPDxwd":[1763433,1772879],"gGcLoe":false,"ikfjnc":[],"nQyAE":{"BqKDUb":"true","i8G3uc":"false","schyHd":"false","MewNVb":"true","hpib0d":"","j4dwod":"false","P3cCFb":"","nhNyTb":"UA-63711172-6","gVlxcb":"","HNsdrd":"","HyTcA":"","RdCS4":"","PQB7nd":"true","oAns1":"false","Sv1bN":"true","CjMgTe":"false","LPP0Ke":"false","OEFXhc":"","wcLcde":"false","tBSlob":"false","Ilr02d":"false","gnkERd":"false","AoFpWc":"false","L12WE":"false","efUU2b":"false","vgkWnf":"true","bwARGe":"true","LplCQc":"false","ewJDhd":"false","PzFhFb":"false"},"qwAQke":"SearchCustomizationUi","rtQCxc":-300,"uS02ke":"czAkYNDSAdGU9QLH_aOICg","vXmutd":"%.@.\"PK\",\"ZZ\",\"b0RmDA\\u003d\\u003d\"]\n","w2btAe":"%.@.null,null,\"\",true,null,null,true,false]\n","zChJod":"%.@.]\n"};</script><script nonce="ZdZsloWkXlgRSkjFWP21SQ">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*# sourceURL=/_/mss/boq-footprints/_/ss/k=boq-footprints.SearchCustomizationUi.rRKTp7f-ZbE.L.B1.O/am=BAg/d=1/ed=1/ct=zgms/rs=AJJuxJYtncYUU742YiguaeoLo1Jq9rqipA/m=optoutview,_b,_tp */
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2)format('woff2');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvr9oS_a.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv39oS_a.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvH9oS_a.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvD9oS_a.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79oQ.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style><script nonce="ZdZsloWkXlgRSkjFWP21SQ">(function(){/*
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
+--------------------------------------------------
+<!-- Open graph for facebook -->
+<!-- Twitter card -->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Cookie Consent Bar -->
+<!-- End Google Cookie Consent Bar -->
+<!-- material design icons -->
+<!-- Social icons -->
+<!-- hercules icons -->
+
+http://www.google.com/about/search-ads-360/
+--------------------------------------------------
+//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+//www.google.com/><span id=logo aria-label=Google></span></a>
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/setprefs?sig=0_ZO1HPg6TBwzUvy-7rErEmG7bTN8%3D&hl=ps&source=homepage&sa=X&ved=0ahUKEwiM1Of5guDuAhVVkFwKHTpFAx8Q2ZgBCA8
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:right;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-right:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-right:0;margin-left:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-right:28px;margin-top:16px;position:absolute;right:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-left:0}#Gm4Vke{text-align:left}#mb-ilang{margin-right:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-right:16px;padding-left:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:-1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{right:0}.UVgjof .jfk-radiobutton{display:block;padding-right:0}.UVgjof .jfk-checkbox{margin-right:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{right:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="k6f0sj2pbYR1QkF0HF1+iw==">(function(){window.google={kEI:'hDAkYMi1I5-i5NoP_siQ-As',kEXPI:'31',kBL:'yH2-'};google.sn='web';google.kHL='ps-PK';})();(function(){
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/setprefs?sig=0_ZO1HPg6TBwzUvy-7rErEmG7bTN8%3D&hl=ps&source=homepage&sa=X&ved=0ahUKEwiM1Of5guDuAhVVkFwKHTpFAx8Q2ZgBCA8
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:right;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-right:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-right:0;margin-left:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-right:28px;margin-top:16px;position:absolute;right:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-left:0}#Gm4Vke{text-align:left}#mb-ilang{margin-right:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-right:16px;padding-left:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:-1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{right:0}.UVgjof .jfk-radiobutton{display:block;padding-right:0}.UVgjof .jfk-checkbox{margin-right:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{right:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="/Xdqu1kaHPhNI3BZe1KgaA==">(function(){window.google={kEI:'lDAkYOjJMfKz5NoPo5-A2AM',kEXPI:'31',kBL:'yH2-'};google.sn='web';google.kHL='ps-PK';})();(function(){
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/setprefs?sig=0_ZO1HPg6TBwzUvy-7rErEmG7bTN8%3D&hl=ps&source=homepage&sa=X&ved=0ahUKEwiM1Of5guDuAhVVkFwKHTpFAx8Q2ZgBCA8
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:right;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-right:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-right:0;margin-left:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-right:28px;margin-top:16px;position:absolute;right:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-left:0}#Gm4Vke{text-align:left}#mb-ilang{margin-right:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-right:16px;padding-left:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:-1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{right:0}.UVgjof .jfk-radiobutton{display:block;padding-right:0}.UVgjof .jfk-checkbox{margin-right:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{right:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="rIlh5lKBSspjLf7peve8Vw==">(function(){window.google={kEI:'yDAkYOHeDszi5NoP7te06A0',kEXPI:'31',kBL:'yH2-'};google.sn='web';google.kHL='ps-PK';})();(function(){
+
+http://www.google.com/history/optout?hl=ps-PK
+--------------------------------------------------
+/*"],"FdrFJe":"4813653968126126913","Im6cmf":"/history/_/SearchCustomizationUi","LVIXXb":1,"LoQv7e":true,"MT7f9b":[],"QrtxK":"","S06Grb":"","S1NZmd":false,"Yllh3e":"%.@.1612984523036272,182442566,302057169]\n","cfb2h":"boq_footprintsmyactivityuiserver_20210209.05_p0","eptZe":"/history/_/SearchCustomizationUi/","fPDxwd":[1763433,1772879],"gGcLoe":false,"ikfjnc":[],"nQyAE":{"BqKDUb":"true","i8G3uc":"false","schyHd":"false","MewNVb":"true","hpib0d":"","j4dwod":"false","P3cCFb":"","nhNyTb":"UA-63711172-6","gVlxcb":"","HNsdrd":"","HyTcA":"","RdCS4":"","PQB7nd":"true","oAns1":"false","Sv1bN":"true","CjMgTe":"false","LPP0Ke":"false","OEFXhc":"","wcLcde":"false","tBSlob":"false","Ilr02d":"false","gnkERd":"false","AoFpWc":"false","L12WE":"false","efUU2b":"false","vgkWnf":"true","bwARGe":"true","LplCQc":"false","ewJDhd":"false","PzFhFb":"false"},"qwAQke":"SearchCustomizationUi","rtQCxc":-300,"uS02ke":"yzAkYLCbAsa0_wbRjYSQAQ","vXmutd":"%.@.\"PK\",\"ZZ\",\"b0RmDA\\u003d\\u003d\"]\n","w2btAe":"%.@.null,null,\"\",true,null,null,true,false]\n","zChJod":"%.@.]\n"};</script><script nonce="xxHpObCvrV/6Qz0Q2dao3Q">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*# sourceURL=/_/mss/boq-footprints/_/ss/k=boq-footprints.SearchCustomizationUi.rRKTp7f-ZbE.L.B1.O/am=BAg/d=1/ed=1/ct=zgms/rs=AJJuxJYtncYUU742YiguaeoLo1Jq9rqipA/m=optoutview,_b,_tp */
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2)format('woff2');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvr9oS_a.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv39oS_a.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvH9oS_a.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvD9oS_a.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79oQ.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style><script nonce="xxHpObCvrV/6Qz0Q2dao3Q">(function(){/*
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/analytics/optimize/?utm_medium=referral-internal&utm_source=google-products&utm_campaign=product-cross-promo&utm_content=optimize-icon
+--------------------------------------------------
+<!-- Open graph for facebook -->
+<!-- Twitter card -->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Cookie Consent Bar -->
+<!-- End Google Cookie Consent Bar -->
+<!-- material design icons -->
+<!-- Social icons -->
+<!-- hercules icons -->
+
+http://www.google.com/about/search-ads-360/
+--------------------------------------------------
+//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+//www.google.com/><span id=logo aria-label=Google></span></a>
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com.pk/imghp?hl=en&ogbl
+--------------------------------------------------
+/*
+
+Math.uuid.js (v1.4)
+http://www.broofa.com
+mailto:robert@broofa.com
+Copyright (c) 2010 Robert Kieffer
+Dual licensed under the MIT and GPL licenses.
+*/
+/*
+ Portions of this code are from MochiKit, received by
+ The Closure Authors under the MIT license. All other code is Copyright
+ 2005-2009 The Closure Authors. All Rights Reserved.
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2008 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//.test(a)||(a=window.location.href);var b=a.substring(a.indexOf("://")+3),c=b.indexOf("/");-1!=c&&(b=b.substring(0,c));c=a.substring(0,a.indexOf("://"));if(!c)throw Error("o`"+a);if("http"!==c&&"https"!==c&&"chrome-extension"!==c&&"moz-extension"!==c&&"file"!==c&&"android-app"!==c&&"chrome-search"!==c&&"chrome-untrusted"!==c&&"chrome"!==c&&"app"!==c&&
+///yH5BAEKAAEALAAAAAAKAAoAAAIRhI8Xu9mdDEQsxBmztBlrUwAAOw==) no-repeat center center;background-size:10px;display:inline-block;height:16px;margin-left:8px;margin-right:0;margin-bottom:5px;opacity:.4;vertical-align:bottom;width:13px}.nfyh2c{width:100%}#Ycyxxc{font:18px arial,sans-serif bold;height:30px;margin:0;padding:0;vertical-align:top;width:100%}#awyMjb{font:13px Arial,sans-serif}#dt8swb{background:url(data:image/gif;base64,R0lGODlhFQAVAPAAAAAAAAAAACH5BAEAAAEALAAAAAAVABUAAAIsjI+py+0PH2Czgatupfho+AUhqHWROJ7laZSm1KXchtLZ2+KJ7bH+DwwKFQUAOw==) no-repeat;cursor:pointer;display:inline-block;height:16px;margin-bottom:-2px;position:absolute;right:0;top:0;width:16px;z-index:312}.iOGqzf{color:#70757a;display:inline;margin-right:16px}.iOGqzf.mJEC7c{background:#f8f9fa;border:1px solid #dadce0;border-bottom:0;color:#202124;font-size:100%;padding:7px}.thCpXb{background:#f8f9fa;border-top:1px solid #dadce0;color:#202124;padding:20px;width:100%}.YgiJIe{font-size:16px;font-weight:bold;vertical-align:baseline}.frKW9b{padding-left:10px}.sYeeV{font-size:20px;font-weight:bold;padding-bottom:6px}.bdmI4{margin-top:-6px}.IyNJid{font-weight:bold}.H4qWMc.aXIg1b{color:#70757a;font-weight:800;text-decoration:none}.H4qWMc.aXIg1b:hover{color:#202124;text-decoration:none}.iOGqzf .H4qWMc.aXIg1b{color:#202124}.lst{border:0}.S6U6Pd #LLsDr,.S6U6Pd #jkXfPe,.Wp5wpf #fpbnK,.Wp5wpf #jkXfPe,.wBQv5e #fpbnK,.wBQv5e #LLsDr{display:none}#jkXfPe,#LLsDr{background:#f8f9fa;border-top:1px solid #dadce0;color:#70757a;margin-top:15px;position:relative}.wBQv5e #dt8swb{visibility:hidden}#fpbnK{overflow:hidden}#uuF09,#I0MMff{display:none;position:absolute;z-index:998}#uuF09 .i4RxRc,#I0MMff .i4RxRc{background:#fff;border:1px solid rgba(0,0,0,.2);box-shadow:0 4px 16px rgba(0,0,0,.2);font:13px Arial,sans-serif;left:-45px;padding:22px;position:absolute;top:3px;width:245px}.i4RxRc ol li{margin-left:3px;list-style-type:decimal}.i4RxRc ul li{margin-left:3px;list-style-type:disc}#uuF09 .tpUIvd,#I0MMff .tpUIvd{border-left:11px solid transparent;border-right:11px solid transparent;border-bottom:11px solid rgba(0,0,0,.2);left:-30px;position:relative;top:-8px}#uuF09 .nYYmpc,#I0MMff .nYYmpc{border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #fff;left:-29px;position:absolute;top:-6px;z-index:999}#JENSkd{margin-left:8px;margin-right:0px}#RZJ9Ub{border:0;height:32px;margin-left:18px;width:auto}</style><div jscontroller="TJw5qb" class="LM8x9c" aria-label="Search by image" role="button" tabindex="0" jsaction="h5M12e;rcuQ6b:npT2md"><span class="BwoPOe"></span></div><style>.hpuQDe{flex:1 0 auto;display:flex;cursor:pointer;align-items:center;border:0;background:transparent;outline:none;padding:0 8px;width:24px;line-height:44px}.HPVvwb{height:24px;width:24px;vertical-align:middle}.minidiv .hpuQDe{line-height:32px}.minidiv .HPVvwb{width:20px;height:20px}</style><div jscontroller="MC8mtf" class="hpuQDe" aria-label="Search by voice" role="button" tabindex="0" jsaction="h5M12e;rcuQ6b:npT2md" data-ved="0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQvs8DCAY"><svg class="HPVvwb" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 15c1.66 0 3-1.31 3-2.97v-7.02c0-1.66-1.34-3.01-3-3.01s-3 1.34-3 3.01v7.02c0 1.66 1.34 2.97 3 2.97z" fill="#4285f4"></path><path d="m11 18.08h2v3.92h-2z" fill="#34a853"></path><path d="m7.05 16.87c-1.27-1.33-2.05-2.83-2.05-4.87h2c0 1.45 0.56 2.42 1.47 3.38v0.32l-1.15 1.18z" fill="#f4b400"></path><path d="m12 16.93a4.97 5.25 0 0 1 -3.54 -1.55l-1.41 1.49c1.26 1.34 3.02 2.13 4.95 2.13 3.87 0 6.99-2.92 6.99-7h-1.99c0 2.92-2.24 4.93-5 4.93z" fill="#ea4335"></path></svg></div></div></div> <style>.Tg7LZd{height:44px;width:44px;background:transparent;border:none;cursor:pointer;flex:0 0 auto;padding:0}.minidiv .Tg7LZd{height:32px;line-height:32px}.minidiv .Tg7LZd .FAuhyb{height:20px;width:20px}.minidiv .Tg7LZd svg{height:20px;width:20px}.Tg7LZd{flex:0 0 auto;padding-right:13px}html:not(.zAoYTe) .Tg7LZd:focus{outline:none}.FAuhyb{background:none;color:#4285f4;height:24px;width:24px;margin:auto}</style> <button class="Tg7LZd" jsname="Tg7LZd" aria-label="Google Search" type="submit" data-ved="0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQ4dUDCAc"> <div class="FAuhyb"> <span class="z1asCe MZy1Rb"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span> </div> </button>  </div><div jscontroller="tg8oTe" class="UUbT9" style="display:none" jsname="UUbT9" jsaction="mouseout:ItzDCd;mouseleave:MWfikb;hBEIVb:nUZ9le;YMFC3:VKssTb"><style>.UUbT9{position:absolute;width:100%;text-align:left;margin-top:-1px;z-index:3;cursor:default;-webkit-user-select:none}.aajZCb{background:#fff;box-shadow:0 4px 6px rgba(32,33,36,.28);display:flex;flex-direction:column;list-style-type:none;margin:0;padding:0;border:0;border-radius:0 0 24px 24px;padding-bottom:4px;overflow:hidden}.minidiv .aajZCb{border-bottom-left-radius:16px;border-bottom-right-radius:16px}.erkvQe{flex:auto;padding-bottom:0px;}.RjPuVb{height:1px;margin:0 26px 0 0}.S3nFnd{display:flex}.S3nFnd .RjPuVb,.S3nFnd .aajZCb{flex:0 0 auto}.lh87ke:link,.lh87ke:visited{color:#36c;cursor:pointer;font:11px arial,sans-serif;padding:0 5px;margin-top:-10px;text-decoration:none;flex:auto;align-self:flex-end;margin:0 16px 5px 0}.lh87ke:hover{text-decoration:underline}.xtSCL{border-top:1px solid #e8eaed;margin:0 20px 0 14px;padding-bottom:4px}.sb7{background:url() no-repeat ;min-height:0px;min-width:0px;height:0px;width:0px}.sb27{background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png) no-repeat 0 -21px;background-size:20px;min-height:20px;min-width:20px;height:20px;width:20px}.sb43{background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png) no-repeat 0 0;background-size:20px;min-height:20px;min-width:20px;height:20px;width:20px}.sb53.sb53{padding:0 4px;margin:0}</style><div class="RjPuVb" jsname="RjPuVb"></div><div class="aajZCb" jsname="aajZCb"><div class="xtSCL"></div><ul class="erkvQe" jsname="erkvQe" role="listbox"></ul><style>#ynRric{display:none}.ynRric{list-style-type:none;flex-direction:column;color:#80868b;font-family:arial,sans-serif;font-size:14px;letter-spacing:0.75px;margin:0 20px 0 16px;padding:8px 0 8px 0;line-height:16px}</style><li class="ynRric" id="ynRric" role="presentation"></li><style>#sbt{display:none}.sbct{display:flex;align-items:center;min-width:0;padding:0}.jKWzZXdEJWi__suggestions-inner-container{flex:auto;display:flex;align-items:center;margin:0 20px 0 14px}.sbtc{display:flex;flex:auto;flex-direction:column;min-width:0;padding:6px 0}.sbic{display:flex;align-items:center;margin:0 13px 0 1px;}.sbic.sbei{margin:4px 7px 4px -5px;border-radius:4px;min-height:32px;min-width:32px;background:center/contain no-repeat}.sbre .sbl1{line-height:18px}.sbl2{line-height:12px;font-size:13px;color:#80868b;margin-top:2px}.sbl1{display:flex;font-size:16px;color:#212121;flex:auto;align-items:center;word-break:break-word;padding-right:8px}.minidiv .sbl1{font-size:14px}.sbl1p{color:#52188c}.sbl1>span{flex:auto}.sbab{display:flex;align-self:stretch}.sbdb:hover{color:#1a73e8;text-decoration:underline}.sbdb{color:#80868b;cursor:pointer;font:13px arial,sans-serif;align-self:center}.sbhl{background:#eee}.mus_pc{display:block;margin:6px 0}.mus_il{font-family:Arial,HelveticaNeue-Light,HelveticaNeue,Helvetica;padding-top:7px;position:relative}.mus_il:first-child{padding-top:0}.mus_il_at{margin-left:10px}.mus_il_st{right:52px;position:absolute}.mus_il_i{align:left;margin-right:10px}.mus_it3{margin-bottom:3px;max-height:24px;vertical-align:bottom}.mus_it5{height:24px;width:24px;vertical-align:bottom;margin-left:10px;margin-right:10px;transform:rotate(90deg)}.mus_tt3{color:#767676;font-size:12px;vertical-align:top}.mus_tt5{color:#dd4b39;font-size:14px}.mus_tt6{color:#3d9400;font-size:14px}.mus_tt8{font-size:16px;font-family:Arial,sans-serif}.mus_tt17{color:#212121;font-size:20px}.mus_tt18{color:#212121;font-size:24px}.mus_tt19{color:#767676;font-size:12px}.mus_tt20{color:#767676;font-size:14px}.mus_tt23{color:#767676;font-size:18px}</style><li data-view-type="1" class="sbct" id="sbt" role="presentation"><div class="jKWzZXdEJWi__suggestions-inner-container"><div class="sbic"></div><div class="sbtc" role="option"><div class="sbl1"><span></span></div><div class="sbl2"><span></span></div></div><div class="sbab"><div class="sbai">Remove</div></div></div></li></div><style>.JUypV{font-size:8pt;margin-top:-16px;position:absolute;right:16px}</style><div jsname="JUypV" jscontroller="IvlUe" class="JUypV" data-async-context="async_id:duf3-46;authority:0;card_id:;entry_point:0;feature_id:;ftoe:0;header:0;is_jobs_spam_form:0;open:0;preselect_answer_index:-1;suggestions:;suggestions_subtypes:;suggestions_types:;surface:0;title:;type:46"><style>a.oBa0Fe{color:#70757a;float:right;font-style:italic;-webkit-tap-highlight-color:rgba(0,0,0,.00);tap-highlight-color:rgba(0,0,0,.00)}a.aciXEb{padding:0 5px;}.RTZ84b{color:#70757a;cursor:pointer;padding-right:8px}.XEKxtf{color:#70757a;float:right;font-size:12px;line-height:1.34;padding-bottom:4px}</style><div jscontroller="xz7cCd" style="display:none" jsaction="rcuQ6b:npT2md"></div><div id="duf3-46" data-jiis="up" data-async-type="duffy3" data-async-context-required="type,open,feature_id,async_id,entry_point,authority,card_id,ftoe,title,header,suggestions,surface,suggestions_types,suggestions_subtypes,preselect_answer_index,is_jobs_spam_form" class="y yp" data-ved="0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQ-0EICA"></div><a class="oBa0Fe wrSo4 aciXEb" href="#" id="sbfblt" data-async-trigger="duf3-46" jsaction="async.u" data-ved="0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQtw8ICQ">Report inappropriate predictions</a></div></div></div> <div style="background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png)"> </div> </div> </form></div></div><style>.spch-dlg{background:transparent;border:none}.spch{background:#fff;height:100%;left:0;opacity:0;overflow:hidden;position:fixed;text-align:left;top:0;visibility:hidden;width:100%;z-index:10000;transition:visibility 0s linear 0.218s,background-color 0.218s}.close-button{background:none;border:none;color:#777;cursor:pointer;font-size:26px;right:0;height:11px;line-height:15px;margin:15px;opacity:.6;padding:0;position:absolute;top:0;width:15px;z-index:10}.close-button:hover{opacity:.8}.close-button:active{opacity:1}.spchc{display:block;height:42px;position:absolute;pointer-events:none}.inner-container{height:100%;opacity:.1;pointer-events:none;width:100%;transition:opacity .318s ease-in}.s2ml .inner-container,.s2ra .inner-container,.s2er .inner-container{opacity:1;transition:opacity 0s}.s2fp.spch{opacity:1;visibility:visible;transition-delay:0s}.s2tb-h.spch{background:rgba(255,255,255,0);opacity:0;visibility:hidden}.s2tb.spch{background:rgba(255,255,255,0);opacity:1;visibility:visible;transition-delay:0s}.google-logo{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAABACAQAAAAKENVCAAAI/ElEQVR4Ae3ae3BU5RnH8e/ZTbIhhIRbRIJyCZcEk4ZyE4RBAiRBxRahEZBLQYUZAjIgoLUWB6wjKIK2MtAqOLVUKSqWQW0ZaOQq0IFAIZVrgFQhXAOShITEbHY7407mnPfc8u6ya2f0fN6/9rzvc87Z39nbed/l/8OhIKMDQ+hHKp1JJB6FKq5QQhH72MZ1IsDRhvkU4bds9WxlLNE4wqg9q6jBL9G+4knc/HB9qXmuG4goD89TjT+IVkimE/zt6sYh/EG3WmaiOMGHbgQ38YfY3ibKCV6GMabHWY0bo+Ps5jjnuYlCczrSk8Hcgd5U1rONoDnG48Ova2W8RGeMXAxiHfWakT4mOx81oRiG1/C5vYh47KSx5fZid4JvxxVd7MdIp3EK06kNNXYneIWtutgLaIasQUwkJE7wE3SxbycWR8SD93BOiL2YRBwRDN5FwOPchaqecZQTQQ4XAApz0FrFQSLPwQD8mlZNEt8L5841D62/cJVIi2cgPelEAlBOCYfYSxXymjKAXqSQAFRwloPspRp5dzOMHiTThEqK2c1OvGHIsg/30YUWKHzDKfZwEB+2xBn3gUSSwmA+MpluruYDySMPYD23TOrX0V/q+CPZYai+yHw8wKscbmhMD+IVfyevcMlkuvxXxGOphTD4Gi4iJ40C/DZtM12wk8Lfbes/oSN27mGPZW0RnVmvebxIMng3z1Bluddz5Mh9wm8icqZIzPHfZDxW8qhotL6cUVh5zP74XOBg0MEnsgW/bfMxzyIOYdgSIuV5/JJtPmZmSlb7mI6ZGTLVQQafSKHUvp7BxFxhSD6N8UsH4An5aT+J3mNB1T+K3hj8YQ/ezRbpvY3CYKEwYFLYgvfTkQZ9qTN8nS3lIdJJZwTLDdNztfwUrTTDp+hllmnqrxo+sLqi1dWwuFPKYnK5h0we5c/UhhT8fF1FHWsZTis8dGAyB4S+67RF5wVhwC/DGHxvAqI4Imyv50Vi0YpjsW4l4AAuGii63yE+lhCHVlOW6o79TxRN/ee64y/SHb8TO4MOvq3uYh6iO1oufiP0r0VnjtA9K4zBDzSdgKtjJGbyqBfG5dFguC62sZiZoLt0Qy3qvYzCKIZNQQYvXupdxGO0Rni5dLebl1wexuD7A4DuC+gprMwTxu2hwT+E7c9iZYEw7lMaiBPeczAXT3EQwcdwTbP1Eq3RiyaPvcIe/4igj9C5NYzBpwOQKmzbh4IVF4dMviOShHfCEdxYieKY8M5qCUCy8E4oxIWVnwcRfK4wdhqitiyk1JBHJc3UU4UT+HDRYADR1GEnB2s9WYrqssn41/BjxcdrrEOVzRogS4hqOfVY8fI6qzWXYTAbgRwUVMvwYeUzzpKCnMGobvIeDRTuZyajiMLoMG2oRONfwnV5kNDNFH5ZKAD8SbPtFrHYaSr8+nkLgCXC53sCdloJz+RlAFYJv5bisPOG9Cv+U+F+O6AZM4Sx2iz+QKZxWrgArSmEbiAIpwvQGdV/qMFOFUdRdTbUn6QCO9c4bajvJhy/GjuFyOqEqhhIZyUXWEk6esd4imTyKTIG/1e08kghNNEMR7WfgERUpTTmPKrmIdSXGupbiHu3dQFZCagy2MGXzCAekZcPySKDlVSYTwsf5QB9aeBiCWMJxcO0RPU5AW5UPuyJI9xhr/diz4ssF6ohGJXyFmu42Fj5MrTGMILgKTyHqpoCAipR3YE9cURFWOorUCVhrzWyKrFWwGg68hIXG79uGziG1rt0IFhPcC+qj6gioARVJm7sRPMTVCWG+u54sBNHqm19Ji7sZCDrv5gp53ekkcNGvHJvGB+zdVd+M60JRi/eREt9VIQqgfuxM5Q4VEcM9R5ysfMAUaA78iFUzRmIfb2sw+j9m6m042lOEqS1hv+R3Y2svpSJCxJCn9hjR5ztywSgg7BtGwpWFHYLY+8CIB2/5Jppj5BvoE7Qz/a8bCVSrIv+quQrYCLVQl0NXVEpnBF6f4aVX+guvELAPmH7GMk/ZX1BgKJb2szBnEJBEMFHUyY841SsjGcr7bGVabLC8z6dsJPC3ww1sxE9LfTeoAdmeumOPkNzYcUb776Y6aebOh5Hg6m6l1MaZhYGOUn2sjD6MAmYyeIWfiqYhoKNLJNlaC/ryCUGvRhyWUedYfx7KIiack4XfZ5ujMI4XewlxIpzMEL04w31k3STtEW4NWd6Uugr4yFEHt4Ielo4iRvC+P20R6QwTZPnFtpjI4dKi5veAlbwLPnM4NesZDs3Tcd9RgxGIw3jdjCeO1FQSGYiuw39D6A1CJ+u/wsm0pZA/STDEnY9A9DKMtRvZjStAIVOzOJMSAsh+YaMltGXGEChHVPYr+s/igsbPTmHP8T2IR7MvW46voZa0+2voLfAor7GdPtz6C0yHVfNt4S+9KewwXTJ8xtumWyv5T6w14pNIYTu40VcWHHzvvSe3sWFnsIq6foVKCb1qyOw2N2EnZJ7+5aRSFAYS2lQp3maLOy5WS61pyW4MKOwCJ/E5X8BBTMuXsW+tpITQQYPcXws8Zyuk420eOZyQSqqy8zDg4yH+cp2T2cYjp1sim3rTzEEO4/YPKNL9AvpD00K+ZTbnZXwc1KSh9FspNrmDbSZicQirwmzLMI7Qb7EnjxM57hp/TGmEUNjEljAZUNtHW/TGvhA+J6QCx4gicVcNT2r7TyIgoEiGf+99CeVLiTSDKimjK85QSH7qCJ4Cr0YRi9SaI6fG5zlIAUcwS9d34Nsen9Xz3f1hRRQJF0fzVCyyaQdcZRzil18zCUAPtHc3s3mTYIRzWCGkEEH4vFSxmn2s5kSJDgOGP/l4Ii8aOHetzeOsIhiNAX0wVq28O3lwXHbklnIeQJ/PHJhQbh72YXjts3Eq4n0t5h7BL+mzcVx29Kpxy9E70IvV5h7qiEJRxiswC+0feTgJkAhg3d098S/J8IUfhziOUAaouscoYJmpNIO0WXSuYYjLLpxFb9U85KNI4wyKJWKfQKOMEtmm33sXCCbCHC4mMxZIWpx/aglEeNwM4J3KNb8jvmaDTxBIt8jhR8vD22IpYYr1PBD5HA4HP8DxVcxdwELEFUAAAAASUVORK5CYII=) no-repeat center;background-size:94px 32px;height:32px;width:94px;top:8px;opacity:0;float:right;left:255px;pointer-events:none;position:relative;transition:opacity .5s ease-in,left .5s ease-in}.s2tb .google-logo{opacity:0.54;left:270px;transition:opacity .5s ease-out,left .5s ease-out}.s2fp .spchc,.s2fp-h .spchc{margin:auto;margin-top:312px;max-width:572px;min-width:534px;padding:0 223px;position:relative;top:0}.s2tb .spchc,.s2tb-h .spchc{background:#fff;box-shadow:0 2px 6px rgba(0,0,0,.2);margin:0;min-width:100%;overflow:hidden;padding:51px 0 50px 126px;position:absolute}.s2tb-h .inner-container,.s2tb .inner-container{height:100%;width:572px;transition:opacity .318s ease-in}.spch.s2tb.mVRQbc{background:rgba(255,255,255,0.9)}.button{background-color:#fff;border:1px solid #eee;border-radius:100%;bottom:0;box-shadow:0 2px 5px rgba(0,0,0,.1);cursor:pointer;display:inline-block;left:0;opacity:0;pointer-events:none;position:absolute;right:0;top:0;transition:background-color 0.218s,border 0.218s,box-shadow 0.218s}.s2tb-h .button{left:-83px;opacity:0;pointer-events:none;position:absolute;top:-83px;transition-delay:0}.s2fp-h .button,.s2fpm-h .button{opacity:0;pointer-events:none;position:absolute;transition-delay:0}.s2fp .button,.s2tb .button,.s2fpm .button{opacity:1;pointer-events:auto;position:absolute;transform:scale(1);transition-delay:0}.s2ra .button{background-color:#f44;border:0;box-shadow:none}.r8s4j{background-color:#dbdbdb;border-radius:100%;display:inline-block;height:301px;left:-69px;opacity:1;pointer-events:none;position:absolute;top:-69px;width:301px;transform:scale(.01);transition:opacity 0.218s}.s2tb-h .r8s4j,.s2tb .r8s4j{height:151px;left:-28px;top:-28px;width:151px}.button-container{pointer-events:none;position:relative;transition:transform 0.218s,opacity 0.218s ease-in}.s2fp-h .button-container,.s2fp .button-container{height:165px;right:-70px;top:-70px;width:165px;float:right}.s2fpm-h .button-container,.s2fpm .button-container{height:165px;margin:0 auto;top:150px;width:165px}.s2fp-h .button-container,.s2tb-h .button-container,.s2fpm-h .button-container{transform:scale(.1)}.s2fp .button-container,.s2fpm-h .button-container,.s2tb .button-container{transform:scale(1)}.s2tb-h .button-container,.s2tb .button-container{height:95px;right:-31px;top:-27px;width:95px;float:right}.s2ra .button:active{background-color:#cd0000}.button:active{background-color:#eee}.microphone{height:87px;left:43px;pointer-events:none;position:absolute;top:47px;width:42px;transform:scale(1)}.s2tb-h .microphone,.s2tb .microphone{left:17px;top:7px;transform:scale(.53)}.receiver{background-color:#999;border-radius:30px;height:46px;left:25px;pointer-events:none;position:absolute;width:24px}.wrapper{bottom:0;height:53px;left:11px;overflow:hidden;pointer-events:none;position:absolute;width:52px}.stem{background-color:#999;bottom:14px;height:14px;left:22px;pointer-events:none;position:absolute;width:9px;z-index:1}.shell{border:7px solid #999;border-radius:28px;bottom:27px;height:57px;pointer-events:none;position:absolute;width:38px;z-index:0;left:0px}.s2ml .receiver,.s2ml .stem{background-color:#f44}.s2ml .shell{border-color:#f44}.s2ra .receiver,.s2ra .stem{background-color:#fff}.s2ra .shell{border-color:#fff}.text-container{pointer-events:none}.s2fp-h .text-container,.s2fp .text-container,.s2fpm-h .text-container,.s2fpm .text-container{position:absolute}.s2tb-h .text-container,.s2tb .text-container{position:relative}.spcht{font-weight:normal;line-height:1.2;opacity:0;pointer-events:none;position:absolute;text-align:left;-webkit-font-smoothing:antialiased;transition:opacity .1s ease-in,margin-left .5s ease-in,top 0s linear 0.218s}.s2fp-h .spcht,.s2fpm-h .spcht{margin-left:44px}.s2tb-h .spcht{margin-left:32px}.s2fp-h .spcht,.s2fp .spcht,.s2fpm-h .spcht,.s2fpm .spcht{left:-44px;top:-.2em}.s2fp-h .spcht,.s2fp .spcht{font-size:32px;width:460px}.s2fpm-h .spcht,.s2fpm .spcht{font-size:28px;width:300px}.s2tb-h .spcht,.s2tb .spcht{font-size:27px;left:7px;top:.2em;width:490px}.s2fp .spcht,.s2fpm .spcht,.s2tb .spcht{margin-left:0;opacity:1;transition:opacity .5s ease-out,margin-left .5s ease-out}.spchta{color:#15c;cursor:pointer;font-size:18px;font-weight:500;pointer-events:auto;text-decoration:underline}.spch-2l.spcht,.spch-3l.spcht,.spch-4l.spcht{transition:top 0.218s ease-out}.spch-2l.spcht{top:-.6em}.spch-3l.spcht{top:-1.3em}.spch-4l.spcht{top:-1.7em}.s2fp .spch-5l.spcht{top:-2.5em}.s2tb .spch-5l.spcht{font-size:24px;top:-1.7em;transition:font-size 0.218s ease-out}.permission-bar{margin-top:-100px;opacity:0;pointer-events:none;position:absolute;width:500px;transition:opacity 0.218s ease-in,margin-top .4s ease-in}.s2wfp .permission-bar{margin-top:-300px;opacity:1;transition:opacity .5s ease-out 0.218s,margin-top 0.218s ease-out 0.218s}.permission-bar-gradient{box-shadow:0 1px 0px #4285f4;height:80px;left:0;margin:0;opacity:0;pointer-events:none;position:fixed;right:0;top:-80px;transition:opacity 0.218s,box-shadow 0.218s}.s2wfp .permission-bar-gradient{box-shadow:0 1px 80px #4285f4;opacity:1;pointer-events:none;animation:allow-alert .75s 0 infinite;animation-direction:alternate;animation-timing-function:ease-out;transition:opacity 0.218s,box-shadow 0.218s}@-webkit-keyframes allow-alert {from{opacity:1}to{opacity:.35}}</style><dialog class="spch-dlg" id="spch-dlg"><div class="spch s2fp-h" style="display:none" id="spch"></div></dialog><div jscontroller="fEVMic" style="display:none" data-u="0" jsdata="C4mkuf;_;AzCO3o" jsaction="rcuQ6b:npT2md"></div><div class="content" id="main"><span class="ctr-p" id="body"><center><div jscontroller="cvn5cb" data-responsive-height-resize="536" data-responsive-min-height="100" data-responsive-min-width="980" id="lga" jsaction="rcuQ6b:npT2md"><style>#lga{height:233px;margin-top:89px}@media only screen and (max-height:768px){#lga{margin-top:47px}}</style><div style="padding-top:109px"><style>#hplogo{background:url(/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png) no-repeat;}@media (-webkit-max-device-pixel-ratio:1),(max-resolution:96dpi){#hplogo{background:url(/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) no-repeat}}</style><div style="background-size:272px 92px;height:92px;width:272px" title="Google Images" id="hplogo" align="left"><div class="logo-subtext"><span>images</span></div></div></div></div><div style="height:51px"></div><div style="margin-top:12px"><div id="prm"></div><script nonce="hbiVwHWAqzCIV62oxI9ANg==">window.gbar&&gbar.up&&gbar.up.tp&&gbar.up.tp();</script></div></center></span><div class="ctr-p" id="footer"><style>.M6hT6{left:0;right:0;-webkit-text-size-adjust:none}.fbar a{text-decoration:none;white-space:nowrap}.fbar{margin-left:-27px}.Fx4vi{padding-left:27px;margin:0 !important}#fsl{white-space:nowrap}.f6F9Be{background:#f2f2f2;line-height:40px;min-width:980px;border-top:1px solid #dadce0;}.B4GxFc{margin-left:166px}.fbar p,.fbar a{color:#70757a}.fbar a:hover{color:#3c4043}.fbar{font-size:14px}.EvHmz{bottom:0;left:0;position:absolute;right:0}.hRvfYe a:hover{text-decoration:underline}#fsl{margin-left:30px;}#fsr{float:right;margin-right:30px;white-space:nowrap;}.b0KoTc{color:rgba(0,0,0,.54);padding-left:27px}.b0KoTc{margin-left:30px;text-align:left}.b2hzT{border-bottom:1px solid #dadce0}.Q8LRLc{font-size:15px}.j9xd9b{display:inline-block}.cF4V5c{background-color:#fff}.cF4V5c g-menu-item{display:block;font-size:14px;line-height:23px;white-space:nowrap}.cF4V5c g-menu-item a,.cF4V5c .y0fQ9c{display:block;padding-top:4px;padding-bottom:4px;cursor:pointer}.cF4V5c g-menu-item a,.cF4V5c g-menu-item a:visited,.cF4V5c g-menu-item a:hover{text-decoration:inherit;color:inherit}.EwsJzb{display:block;position:absolute}.rIbAWc{cursor:pointer;display:inline-block}.sAKBe{border-radius:8px;box-shadow:0 2px 10px 0 rgba(0,0,0,0.2)}.gLSAk{border:none;display:block;outline:none;}.gLSAk{border-radius:8px}.gLSAk{padding:5px 0}.ErsxPb{display:block;position:relative}.znKVS{overflow:hidden;padding:0 16px;text-overflow:ellipsis;vertical-align:middle;white-space:nowrap}.znKVS.tnhqA{padding:0}.tnhqA>*{padding:0 16px}.ohSfHb .znKVS{padding-left:28px}.ErsxPb:hover{cursor:pointer}.ErsxPb,.fbKdEb:hover{cursor:default}.dPaec,g-menu-item[disabled]{pointer-events:none;cursor:default}.dPaec{border-top:1px solid;height:0;margin:5px 0}.znKVS{line-height:23px}.fbKdEb{background:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png) no-repeat left center}.gvybPb,.ErsxPb:active{background-color:rgba(0, 0, 0, 0.1)}.dPaec,g-menu-item[disabled]{color:#cdcdcd !important}.dPaec{border-top-color:#ebebeb}</style><div id="fbarcnt"><div id="footcnt"><div class="EvHmz f6F9Be hRvfYe" id="fbar"><div class="fbar"><div class="b2hzT"><div class="b0KoTc"><span class="Q8LRLc">Pakistan</span></div></div><span id="fsr"><a class="JWaTvb Fx4vi" href="https://policies.google.com/privacy?hl=en-PK&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://policies.google.com/privacy%3Fhl%3Den-PK%26fg%3D1&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQ8awCCA0">Privacy</a><a class="JWaTvb Fx4vi" href="https://policies.google.com/terms?hl=en-PK&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://policies.google.com/terms%3Fhl%3Den-PK%26fg%3D1&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQ8qwCCA4">Terms</a><span class="j9xd9b" jscontroller="fWEITb" jsaction="KyPa0e:Y0y4c"><g-popup jsname="V68bde" jscontroller="NZI0Db" jsaction="A05xBd:IYtByb;" jsdata="mVjAjf;_;AzCO3s"><div jsname="oYxtQd"><a class="hide-focus-ring JWaTvb Fx4vi" aria-haspopup="true" role="button" jsaction="WFrRFb;keydown:uYT2Vb" href="https://www.google.com.pk/preferences?hl=en" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/preferences%3Fhl%3Den&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQzq0CCBA">Settings</a></div><div jsname="V68bde" class="EwsJzb sAKBe" style="display:none;z-index:1" id="_XjEkYPTtDo6fgQaVipCACw1"></div></g-popup></span></span><span id="fsl"><a class="JWaTvb Fx4vi" href="https://www.google.com.pk/intl/en_pk/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpafooter&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/intl/en_pk/ads/%3Fsubid%3Dww-ww-et-g-awa-a-g_hpafoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpafooter%26fg%3D1&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQkdQCCBM">Advertising</a><a class="JWaTvb Fx4vi" href="https://www.google.com.pk/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpbfooter&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/services/%3Fsubid%3Dww-ww-et-g-awa-a-g_hpbfoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpbfooter%26fg%3D1&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQktQCCBQ">Business</a><a class="JWaTvb Fx4vi" href="https://about.google/?utm_source=google-PK&amp;utm_medium=referral&amp;utm_campaign=hp-footer&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://about.google/%3Futm_source%3Dgoogle-PK%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&amp;ved=0ahUKEwj0lLGShODuAhWOT8AKHRUFBLAQkNQCCBU">About</a><a class="JWaTvb Fx4vi" href="https://google.com/search/howsearchworks/?fg=1">  How Search works </a></span></div></div></div></div></div><div id="footc">  <script nonce="hbiVwHWAqzCIV62oxI9ANg==">(function(){var u='/xjs/_/js/k\x3dxjs.s.en_GB.kIVloeS40ig.O/ck\x3dxjs.s.V2GOm02MGKg.L.W.O/m\x3dcdos,dpf,hsm,jsa,d,csi/am\x3dAAAAAAAAAAAAAIAABgAAAABLYA8I-G8CgAs2cQAAAAAAAOCSoFFoQEJBAAAAAABZXS0AEA/d\x3d1/dg\x3d2/br\x3d1/ct\x3dzgms/rs\x3dACT90oFxs5KSz-yHdYHwmK9Wn5Z-_idCFA';
+
+https://www.google.com.pk/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+--------------------------------------------------
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></picture>
+
+https://www.google.com.pk/intl/en/analytics/tag-manager/?utm_source=Internal&utm_medium=BusinessSolutions&utm_campaign=ExploreSolutions
+--------------------------------------------------
+<!-- Open graph for facebook -->
+<!-- Twitter card -->
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Cookie Consent Bar -->
+<!-- End Google Cookie Consent Bar -->
+<!-- material design icons -->
+<!-- Social icons -->
+<!-- hercules icons -->
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com.pk/intl/en/about/products
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- LOCK up-->
+<!-- LINK BAR-->
+<!-- Mobile header placeholder -->
+<!-- SKIP -->
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<!--[if IE 9]></video><![endif]-->
+
+https://www.google.com/get/cardboard/
+--------------------------------------------------
+<!-- End Google Tag Manager -->
+
+http://www.google.com/cardboard/product-safety/
+--------------------------------------------------
+//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+//www.google.com/><span id=logo aria-label=Google></span></a>
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/preferences?hl=en-PK&fg=1
+--------------------------------------------------
+//8/A60B4/C0ZNasWf/T0tIYqUWP+mTUJ6M+Gcw+GdKWAABcofTjqOulhgAAAABJRU5ErkJggg==") no-repeat center center #f8f9fa;height:100%;width:100%}#slider_sug .goog-slider-thumb{height:27px;width:50%}.goog-slider:focus .goog-slider-thumb{background-color:#f8f9fa;background-image:-webkit-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-moz-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-ms-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:-o-linear-gradient(top,#f8f8f8,#f1f1f1);background-image:linear-gradient(top,#f8f8f8,#f1f1f1);border-color:#dadce0}#psyButtons{display:inline-block;margin:0;z-index:0}#psyButtonOn.jfk-button,#psyButtonOff.jfk-button{display:inline-block;float:left;margin:0;min-width:27px;overflow:hidden;padding:0 8px;-moz-user-select:none;-webkit-user-select:none;width:auto;z-index:-1}#psyButtonOff.jfk-button-checked{color:#70757a}.rulerResnum{position:absolute;top:4px;width:360px;height:9px;padding:0;margin:0;z-index:-1}.mitem,.lnkitem{border-bottom:1px solid transparent;color:#202124;cursor:pointer;display:block;font-size:13px;line-height:29px;opacity:1.0}.mitem:hover{background:#f8f9fa;opacity:1;outline:none}.mitem a,.mitem a:hover{display:block;text-decoration:none;color:#000;margin-left:18px}.msel,.msel a{color:#d93025;cursor:pointer}.rightPane{margin-left:0;margin-right:20px;margin-bottom:48px;margin-top:8px;max-width:640px}.leftPane{margin-left:28px;margin-top:16px;position:absolute;left:0;width:175px;-moz-user-select:none;-webkit-user-select:none}.slruler{height:9px;margin:0;padding:0;position:absolute;top:4px;width:360px;z-index:-1}#form-buttons .jfk-button-standard{margin-right:0}#Gm4Vke{text-align:right}#mb-ilang{margin-left:0}#menu-ilang{z-index:5}#menu-ilang .goog-menuitem{padding-left:16px;padding-right:30px}.checkbox-label,.jfk-radiobutton-label{cursor:default}.disabled{color:#70757a}.ttp{display:block;max-width:110px}.jfk-tooltip{box-shadow:1px 2px 4px rgba(0,0,0,.20);-moz-box-shadow:0 1px 4px rgba(0,0,0,.20);-webkit-box-shadow:0 1px 4px rgba(0,0,0,.20)}.UVgjof .jfk-radiobutton-radio{left:0}.UVgjof .jfk-radiobutton{display:block;padding-left:0}.UVgjof .jfk-checkbox{margin-left:0}.disabled-slider{opacity:0.5;z-index:1}#butterbar-container{left:0;position:fixed;text-align:center;top:0;width:100%;z-index:1000}#butterbar-wrap{display:inline-block}</style><script nonce="G9p+6QKSQ9Nk5JXVcTFRBQ==">(function(){window.google={kEI:'2DEkYIW4GdGM1fAP7Kml6AQ',kEXPI:'31',kBL:'XyrI'};google.sn='web';google.kHL='en-PK';})();(function(){
+
+http://www.google.com/history/optout?hl=en-PK
+--------------------------------------------------
+/*"],"FdrFJe":"2245055199017382899","Im6cmf":"/history/_/SearchCustomizationUi","LVIXXb":1,"LoQv7e":true,"MT7f9b":[],"QrtxK":"","S06Grb":"","S1NZmd":false,"Yllh3e":"%.@.1612984795708726,181631946,923684618]\n","cfb2h":"boq_footprintsmyactivityuiserver_20210209.05_p0","eptZe":"/history/_/SearchCustomizationUi/","fPDxwd":[1763433,1772879],"gGcLoe":false,"ikfjnc":[],"nQyAE":{"BqKDUb":"true","i8G3uc":"false","schyHd":"false","MewNVb":"true","hpib0d":"","j4dwod":"false","P3cCFb":"","nhNyTb":"UA-63711172-6","gVlxcb":"","HNsdrd":"","HyTcA":"","RdCS4":"","PQB7nd":"true","oAns1":"false","Sv1bN":"true","CjMgTe":"false","LPP0Ke":"false","OEFXhc":"","wcLcde":"false","tBSlob":"false","Ilr02d":"false","gnkERd":"false","AoFpWc":"false","L12WE":"false","efUU2b":"false","vgkWnf":"true","bwARGe":"true","LplCQc":"false","ewJDhd":"false","PzFhFb":"false"},"qwAQke":"SearchCustomizationUi","rtQCxc":-300,"uS02ke":"2zEkYPagK8r3zQaKnrm4Aw","vXmutd":"%.@.\"PK\",\"ZZ\",\"b0RmDA\\u003d\\u003d\"]\n","w2btAe":"%.@.null,null,\"\",true,null,null,true,false]\n","zChJod":"%.@.]\n"};</script><script nonce="yUo/bCCijwj9TAHCOxbNfw">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*# sourceURL=/_/mss/boq-footprints/_/ss/k=boq-footprints.SearchCustomizationUi.rRKTp7f-ZbE.L.B1.O/am=BAg/d=1/ed=1/ct=zgms/rs=AJJuxJYtncYUU742YiguaeoLo1Jq9rqipA/m=optoutview,_b,_tp */
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2)format('woff2');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvr9oS_a.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv39oS_a.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvH9oS_a.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDvD9oS_a.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans Display';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79oQ.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style><script nonce="yUo/bCCijwj9TAHCOxbNfw">(function(){/*
+
+https://www.google.com.pk/intl/en-GB/about/products
+--------------------------------------------------
+<!--[if lte IE 8]>
+        <script src="//www.gstatic.com/external_hosted/html5shiv/html5shiv.js"></script>
+      <![endif]-->
+<!-- Google Tag Manager -->
+<!--[if gt IE 8]><!-->
+<!--<![endif]-->
+
+https://www.google.com/drive/
+--------------------------------------------------
+
+http://www.google.com/drive/features/#tools
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+--------------------------------------------------
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></picture>
+
+http://www.google.com.pk/intl/en/policies/privacy/
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com.pk/imghp?hl=en&ogbl
+--------------------------------------------------
+/*
+
+Math.uuid.js (v1.4)
+http://www.broofa.com
+mailto:robert@broofa.com
+Copyright (c) 2010 Robert Kieffer
+Dual licensed under the MIT and GPL licenses.
+*/
+/*
+ Portions of this code are from MochiKit, received by
+ The Closure Authors under the MIT license. All other code is Copyright
+ 2005-2009 The Closure Authors. All Rights Reserved.
+*/
+/*
+
+ Copyright 2013 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2011 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2008 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2020 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*
+
+ Copyright 2005 Google LLC.
+ SPDX-License-Identifier: Apache-2.0
+*/
+//.test(a)||(a=window.location.href);var b=a.substring(a.indexOf("://")+3),c=b.indexOf("/");-1!=c&&(b=b.substring(0,c));c=a.substring(0,a.indexOf("://"));if(!c)throw Error("o`"+a);if("http"!==c&&"https"!==c&&"chrome-extension"!==c&&"moz-extension"!==c&&"file"!==c&&"android-app"!==c&&"chrome-search"!==c&&"chrome-untrusted"!==c&&"chrome"!==c&&"app"!==c&&
+///yH5BAEKAAEALAAAAAAKAAoAAAIRhI8Xu9mdDEQsxBmztBlrUwAAOw==) no-repeat center center;background-size:10px;display:inline-block;height:16px;margin-left:8px;margin-right:0;margin-bottom:5px;opacity:.4;vertical-align:bottom;width:13px}.nfyh2c{width:100%}#Ycyxxc{font:18px arial,sans-serif bold;height:30px;margin:0;padding:0;vertical-align:top;width:100%}#awyMjb{font:13px Arial,sans-serif}#dt8swb{background:url(data:image/gif;base64,R0lGODlhFQAVAPAAAAAAAAAAACH5BAEAAAEALAAAAAAVABUAAAIsjI+py+0PH2Czgatupfho+AUhqHWROJ7laZSm1KXchtLZ2+KJ7bH+DwwKFQUAOw==) no-repeat;cursor:pointer;display:inline-block;height:16px;margin-bottom:-2px;position:absolute;right:0;top:0;width:16px;z-index:312}.iOGqzf{color:#70757a;display:inline;margin-right:16px}.iOGqzf.mJEC7c{background:#f8f9fa;border:1px solid #dadce0;border-bottom:0;color:#202124;font-size:100%;padding:7px}.thCpXb{background:#f8f9fa;border-top:1px solid #dadce0;color:#202124;padding:20px;width:100%}.YgiJIe{font-size:16px;font-weight:bold;vertical-align:baseline}.frKW9b{padding-left:10px}.sYeeV{font-size:20px;font-weight:bold;padding-bottom:6px}.bdmI4{margin-top:-6px}.IyNJid{font-weight:bold}.H4qWMc.aXIg1b{color:#70757a;font-weight:800;text-decoration:none}.H4qWMc.aXIg1b:hover{color:#202124;text-decoration:none}.iOGqzf .H4qWMc.aXIg1b{color:#202124}.lst{border:0}.S6U6Pd #LLsDr,.S6U6Pd #jkXfPe,.Wp5wpf #fpbnK,.Wp5wpf #jkXfPe,.wBQv5e #fpbnK,.wBQv5e #LLsDr{display:none}#jkXfPe,#LLsDr{background:#f8f9fa;border-top:1px solid #dadce0;color:#70757a;margin-top:15px;position:relative}.wBQv5e #dt8swb{visibility:hidden}#fpbnK{overflow:hidden}#uuF09,#I0MMff{display:none;position:absolute;z-index:998}#uuF09 .i4RxRc,#I0MMff .i4RxRc{background:#fff;border:1px solid rgba(0,0,0,.2);box-shadow:0 4px 16px rgba(0,0,0,.2);font:13px Arial,sans-serif;left:-45px;padding:22px;position:absolute;top:3px;width:245px}.i4RxRc ol li{margin-left:3px;list-style-type:decimal}.i4RxRc ul li{margin-left:3px;list-style-type:disc}#uuF09 .tpUIvd,#I0MMff .tpUIvd{border-left:11px solid transparent;border-right:11px solid transparent;border-bottom:11px solid rgba(0,0,0,.2);left:-30px;position:relative;top:-8px}#uuF09 .nYYmpc,#I0MMff .nYYmpc{border-left:10px solid transparent;border-right:10px solid transparent;border-bottom:10px solid #fff;left:-29px;position:absolute;top:-6px;z-index:999}#JENSkd{margin-left:8px;margin-right:0px}#RZJ9Ub{border:0;height:32px;margin-left:18px;width:auto}</style><div jscontroller="TJw5qb" class="LM8x9c" aria-label="Search by image" role="button" tabindex="0" jsaction="h5M12e;rcuQ6b:npT2md"><span class="BwoPOe"></span></div><style>.hpuQDe{flex:1 0 auto;display:flex;cursor:pointer;align-items:center;border:0;background:transparent;outline:none;padding:0 8px;width:24px;line-height:44px}.HPVvwb{height:24px;width:24px;vertical-align:middle}.minidiv .hpuQDe{line-height:32px}.minidiv .HPVvwb{width:20px;height:20px}</style><div jscontroller="MC8mtf" class="hpuQDe" aria-label="Search by voice" role="button" tabindex="0" jsaction="h5M12e;rcuQ6b:npT2md" data-ved="0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQvs8DCAY"><svg class="HPVvwb" focusable="false" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 15c1.66 0 3-1.31 3-2.97v-7.02c0-1.66-1.34-3.01-3-3.01s-3 1.34-3 3.01v7.02c0 1.66 1.34 2.97 3 2.97z" fill="#4285f4"></path><path d="m11 18.08h2v3.92h-2z" fill="#34a853"></path><path d="m7.05 16.87c-1.27-1.33-2.05-2.83-2.05-4.87h2c0 1.45 0.56 2.42 1.47 3.38v0.32l-1.15 1.18z" fill="#f4b400"></path><path d="m12 16.93a4.97 5.25 0 0 1 -3.54 -1.55l-1.41 1.49c1.26 1.34 3.02 2.13 4.95 2.13 3.87 0 6.99-2.92 6.99-7h-1.99c0 2.92-2.24 4.93-5 4.93z" fill="#ea4335"></path></svg></div></div></div> <style>.Tg7LZd{height:44px;width:44px;background:transparent;border:none;cursor:pointer;flex:0 0 auto;padding:0}.minidiv .Tg7LZd{height:32px;line-height:32px}.minidiv .Tg7LZd .FAuhyb{height:20px;width:20px}.minidiv .Tg7LZd svg{height:20px;width:20px}.Tg7LZd{flex:0 0 auto;padding-right:13px}html:not(.zAoYTe) .Tg7LZd:focus{outline:none}.FAuhyb{background:none;color:#4285f4;height:24px;width:24px;margin:auto}</style> <button class="Tg7LZd" jsname="Tg7LZd" aria-label="Google Search" type="submit" data-ved="0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQ4dUDCAc"> <div class="FAuhyb"> <span class="z1asCe MZy1Rb"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span> </div> </button>  </div><div jscontroller="tg8oTe" class="UUbT9" style="display:none" jsname="UUbT9" jsaction="mouseout:ItzDCd;mouseleave:MWfikb;hBEIVb:nUZ9le;YMFC3:VKssTb"><style>.UUbT9{position:absolute;width:100%;text-align:left;margin-top:-1px;z-index:3;cursor:default;-webkit-user-select:none}.aajZCb{background:#fff;box-shadow:0 4px 6px rgba(32,33,36,.28);display:flex;flex-direction:column;list-style-type:none;margin:0;padding:0;border:0;border-radius:0 0 24px 24px;padding-bottom:4px;overflow:hidden}.minidiv .aajZCb{border-bottom-left-radius:16px;border-bottom-right-radius:16px}.erkvQe{flex:auto;padding-bottom:0px;}.RjPuVb{height:1px;margin:0 26px 0 0}.S3nFnd{display:flex}.S3nFnd .RjPuVb,.S3nFnd .aajZCb{flex:0 0 auto}.lh87ke:link,.lh87ke:visited{color:#36c;cursor:pointer;font:11px arial,sans-serif;padding:0 5px;margin-top:-10px;text-decoration:none;flex:auto;align-self:flex-end;margin:0 16px 5px 0}.lh87ke:hover{text-decoration:underline}.xtSCL{border-top:1px solid #e8eaed;margin:0 20px 0 14px;padding-bottom:4px}.sb7{background:url() no-repeat ;min-height:0px;min-width:0px;height:0px;width:0px}.sb27{background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png) no-repeat 0 -21px;background-size:20px;min-height:20px;min-width:20px;height:20px;width:20px}.sb43{background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png) no-repeat 0 0;background-size:20px;min-height:20px;min-width:20px;height:20px;width:20px}.sb53.sb53{padding:0 4px;margin:0}</style><div class="RjPuVb" jsname="RjPuVb"></div><div class="aajZCb" jsname="aajZCb"><div class="xtSCL"></div><ul class="erkvQe" jsname="erkvQe" role="listbox"></ul><style>#ynRric{display:none}.ynRric{list-style-type:none;flex-direction:column;color:#80868b;font-family:arial,sans-serif;font-size:14px;letter-spacing:0.75px;margin:0 20px 0 16px;padding:8px 0 8px 0;line-height:16px}</style><li class="ynRric" id="ynRric" role="presentation"></li><style>#sbt{display:none}.sbct{display:flex;align-items:center;min-width:0;padding:0}.jKWzZXdEJWi__suggestions-inner-container{flex:auto;display:flex;align-items:center;margin:0 20px 0 14px}.sbtc{display:flex;flex:auto;flex-direction:column;min-width:0;padding:6px 0}.sbic{display:flex;align-items:center;margin:0 13px 0 1px;}.sbic.sbei{margin:4px 7px 4px -5px;border-radius:4px;min-height:32px;min-width:32px;background:center/contain no-repeat}.sbre .sbl1{line-height:18px}.sbl2{line-height:12px;font-size:13px;color:#80868b;margin-top:2px}.sbl1{display:flex;font-size:16px;color:#212121;flex:auto;align-items:center;word-break:break-word;padding-right:8px}.minidiv .sbl1{font-size:14px}.sbl1p{color:#52188c}.sbl1>span{flex:auto}.sbab{display:flex;align-self:stretch}.sbdb:hover{color:#1a73e8;text-decoration:underline}.sbdb{color:#80868b;cursor:pointer;font:13px arial,sans-serif;align-self:center}.sbhl{background:#eee}.mus_pc{display:block;margin:6px 0}.mus_il{font-family:Arial,HelveticaNeue-Light,HelveticaNeue,Helvetica;padding-top:7px;position:relative}.mus_il:first-child{padding-top:0}.mus_il_at{margin-left:10px}.mus_il_st{right:52px;position:absolute}.mus_il_i{align:left;margin-right:10px}.mus_it3{margin-bottom:3px;max-height:24px;vertical-align:bottom}.mus_it5{height:24px;width:24px;vertical-align:bottom;margin-left:10px;margin-right:10px;transform:rotate(90deg)}.mus_tt3{color:#767676;font-size:12px;vertical-align:top}.mus_tt5{color:#dd4b39;font-size:14px}.mus_tt6{color:#3d9400;font-size:14px}.mus_tt8{font-size:16px;font-family:Arial,sans-serif}.mus_tt17{color:#212121;font-size:20px}.mus_tt18{color:#212121;font-size:24px}.mus_tt19{color:#767676;font-size:12px}.mus_tt20{color:#767676;font-size:14px}.mus_tt23{color:#767676;font-size:18px}</style><li data-view-type="1" class="sbct" id="sbt" role="presentation"><div class="jKWzZXdEJWi__suggestions-inner-container"><div class="sbic"></div><div class="sbtc" role="option"><div class="sbl1"><span></span></div><div class="sbl2"><span></span></div></div><div class="sbab"><div class="sbai">Remove</div></div></div></li></div><style>.JUypV{font-size:8pt;margin-top:-16px;position:absolute;right:16px}</style><div jsname="JUypV" jscontroller="IvlUe" class="JUypV" data-async-context="async_id:duf3-46;authority:0;card_id:;entry_point:0;feature_id:;ftoe:0;header:0;is_jobs_spam_form:0;open:0;preselect_answer_index:-1;suggestions:;suggestions_subtypes:;suggestions_types:;surface:0;title:;type:46"><style>a.oBa0Fe{color:#70757a;float:right;font-style:italic;-webkit-tap-highlight-color:rgba(0,0,0,.00);tap-highlight-color:rgba(0,0,0,.00)}a.aciXEb{padding:0 5px;}.RTZ84b{color:#70757a;cursor:pointer;padding-right:8px}.XEKxtf{color:#70757a;float:right;font-size:12px;line-height:1.34;padding-bottom:4px}</style><div jscontroller="xz7cCd" style="display:none" jsaction="rcuQ6b:npT2md"></div><div id="duf3-46" data-jiis="up" data-async-type="duffy3" data-async-context-required="type,open,feature_id,async_id,entry_point,authority,card_id,ftoe,title,header,suggestions,surface,suggestions_types,suggestions_subtypes,preselect_answer_index,is_jobs_spam_form" class="y yp" data-ved="0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQ-0EICA"></div><a class="oBa0Fe wrSo4 aciXEb" href="#" id="sbfblt" data-async-trigger="duf3-46" jsaction="async.u" data-ved="0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQtw8ICQ">Report inappropriate predictions</a></div></div></div> <div style="background:url(/images/searchbox/desktop_searchbox_sprites302_hr.png)"> </div> </div> </form></div></div><style>.spch-dlg{background:transparent;border:none}.spch{background:#fff;height:100%;left:0;opacity:0;overflow:hidden;position:fixed;text-align:left;top:0;visibility:hidden;width:100%;z-index:10000;transition:visibility 0s linear 0.218s,background-color 0.218s}.close-button{background:none;border:none;color:#777;cursor:pointer;font-size:26px;right:0;height:11px;line-height:15px;margin:15px;opacity:.6;padding:0;position:absolute;top:0;width:15px;z-index:10}.close-button:hover{opacity:.8}.close-button:active{opacity:1}.spchc{display:block;height:42px;position:absolute;pointer-events:none}.inner-container{height:100%;opacity:.1;pointer-events:none;width:100%;transition:opacity .318s ease-in}.s2ml .inner-container,.s2ra .inner-container,.s2er .inner-container{opacity:1;transition:opacity 0s}.s2fp.spch{opacity:1;visibility:visible;transition-delay:0s}.s2tb-h.spch{background:rgba(255,255,255,0);opacity:0;visibility:hidden}.s2tb.spch{background:rgba(255,255,255,0);opacity:1;visibility:visible;transition-delay:0s}.google-logo{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAABACAQAAAAKENVCAAAI/ElEQVR4Ae3ae3BU5RnH8e/ZTbIhhIRbRIJyCZcEk4ZyE4RBAiRBxRahEZBLQYUZAjIgoLUWB6wjKIK2MtAqOLVUKSqWQW0ZaOQq0IFAIZVrgFQhXAOShITEbHY7407mnPfc8u6ya2f0fN6/9rzvc87Z39nbed/l/8OhIKMDQ+hHKp1JJB6FKq5QQhH72MZ1IsDRhvkU4bds9WxlLNE4wqg9q6jBL9G+4knc/HB9qXmuG4goD89TjT+IVkimE/zt6sYh/EG3WmaiOMGHbgQ38YfY3ibKCV6GMabHWY0bo+Ps5jjnuYlCczrSk8Hcgd5U1rONoDnG48Ova2W8RGeMXAxiHfWakT4mOx81oRiG1/C5vYh47KSx5fZid4JvxxVd7MdIp3EK06kNNXYneIWtutgLaIasQUwkJE7wE3SxbycWR8SD93BOiL2YRBwRDN5FwOPchaqecZQTQQ4XAApz0FrFQSLPwQD8mlZNEt8L5841D62/cJVIi2cgPelEAlBOCYfYSxXymjKAXqSQAFRwloPspRp5dzOMHiTThEqK2c1OvGHIsg/30YUWKHzDKfZwEB+2xBn3gUSSwmA+MpluruYDySMPYD23TOrX0V/q+CPZYai+yHw8wKscbmhMD+IVfyevcMlkuvxXxGOphTD4Gi4iJ40C/DZtM12wk8Lfbes/oSN27mGPZW0RnVmvebxIMng3z1Bluddz5Mh9wm8icqZIzPHfZDxW8qhotL6cUVh5zP74XOBg0MEnsgW/bfMxzyIOYdgSIuV5/JJtPmZmSlb7mI6ZGTLVQQafSKHUvp7BxFxhSD6N8UsH4An5aT+J3mNB1T+K3hj8YQ/ezRbpvY3CYKEwYFLYgvfTkQZ9qTN8nS3lIdJJZwTLDdNztfwUrTTDp+hllmnqrxo+sLqi1dWwuFPKYnK5h0we5c/UhhT8fF1FHWsZTis8dGAyB4S+67RF5wVhwC/DGHxvAqI4Imyv50Vi0YpjsW4l4AAuGii63yE+lhCHVlOW6o79TxRN/ee64y/SHb8TO4MOvq3uYh6iO1oufiP0r0VnjtA9K4zBDzSdgKtjJGbyqBfG5dFguC62sZiZoLt0Qy3qvYzCKIZNQQYvXupdxGO0Rni5dLebl1wexuD7A4DuC+gprMwTxu2hwT+E7c9iZYEw7lMaiBPeczAXT3EQwcdwTbP1Eq3RiyaPvcIe/4igj9C5NYzBpwOQKmzbh4IVF4dMviOShHfCEdxYieKY8M5qCUCy8E4oxIWVnwcRfK4wdhqitiyk1JBHJc3UU4UT+HDRYADR1GEnB2s9WYrqssn41/BjxcdrrEOVzRogS4hqOfVY8fI6qzWXYTAbgRwUVMvwYeUzzpKCnMGobvIeDRTuZyajiMLoMG2oRONfwnV5kNDNFH5ZKAD8SbPtFrHYaSr8+nkLgCXC53sCdloJz+RlAFYJv5bisPOG9Cv+U+F+O6AZM4Sx2iz+QKZxWrgArSmEbiAIpwvQGdV/qMFOFUdRdTbUn6QCO9c4bajvJhy/GjuFyOqEqhhIZyUXWEk6esd4imTyKTIG/1e08kghNNEMR7WfgERUpTTmPKrmIdSXGupbiHu3dQFZCagy2MGXzCAekZcPySKDlVSYTwsf5QB9aeBiCWMJxcO0RPU5AW5UPuyJI9xhr/diz4ssF6ohGJXyFmu42Fj5MrTGMILgKTyHqpoCAipR3YE9cURFWOorUCVhrzWyKrFWwGg68hIXG79uGziG1rt0IFhPcC+qj6gioARVJm7sRPMTVCWG+u54sBNHqm19Ji7sZCDrv5gp53ekkcNGvHJvGB+zdVd+M60JRi/eREt9VIQqgfuxM5Q4VEcM9R5ysfMAUaA78iFUzRmIfb2sw+j9m6m042lOEqS1hv+R3Y2svpSJCxJCn9hjR5ztywSgg7BtGwpWFHYLY+8CIB2/5Jppj5BvoE7Qz/a8bCVSrIv+quQrYCLVQl0NXVEpnBF6f4aVX+guvELAPmH7GMk/ZX1BgKJb2szBnEJBEMFHUyY841SsjGcr7bGVabLC8z6dsJPC3ww1sxE9LfTeoAdmeumOPkNzYcUb776Y6aebOh5Hg6m6l1MaZhYGOUn2sjD6MAmYyeIWfiqYhoKNLJNlaC/ryCUGvRhyWUedYfx7KIiack4XfZ5ujMI4XewlxIpzMEL04w31k3STtEW4NWd6Uugr4yFEHt4Ielo4iRvC+P20R6QwTZPnFtpjI4dKi5veAlbwLPnM4NesZDs3Tcd9RgxGIw3jdjCeO1FQSGYiuw39D6A1CJ+u/wsm0pZA/STDEnY9A9DKMtRvZjStAIVOzOJMSAsh+YaMltGXGEChHVPYr+s/igsbPTmHP8T2IR7MvW46voZa0+2voLfAor7GdPtz6C0yHVfNt4S+9KewwXTJ8xtumWyv5T6w14pNIYTu40VcWHHzvvSe3sWFnsIq6foVKCb1qyOw2N2EnZJ7+5aRSFAYS2lQp3maLOy5WS61pyW4MKOwCJ/E5X8BBTMuXsW+tpITQQYPcXws8Zyuk420eOZyQSqqy8zDg4yH+cp2T2cYjp1sim3rTzEEO4/YPKNL9AvpD00K+ZTbnZXwc1KSh9FspNrmDbSZicQirwmzLMI7Qb7EnjxM57hp/TGmEUNjEljAZUNtHW/TGvhA+J6QCx4gicVcNT2r7TyIgoEiGf+99CeVLiTSDKimjK85QSH7qCJ4Cr0YRi9SaI6fG5zlIAUcwS9d34Nsen9Xz3f1hRRQJF0fzVCyyaQdcZRzil18zCUAPtHc3s3mTYIRzWCGkEEH4vFSxmn2s5kSJDgOGP/l4Ii8aOHetzeOsIhiNAX0wVq28O3lwXHbklnIeQJ/PHJhQbh72YXjts3Eq4n0t5h7BL+mzcVx29Kpxy9E70IvV5h7qiEJRxiswC+0feTgJkAhg3d098S/J8IUfhziOUAaouscoYJmpNIO0WXSuYYjLLpxFb9U85KNI4wyKJWKfQKOMEtmm33sXCCbCHC4mMxZIWpx/aglEeNwM4J3KNb8jvmaDTxBIt8jhR8vD22IpYYr1PBD5HA4HP8DxVcxdwELEFUAAAAASUVORK5CYII=) no-repeat center;background-size:94px 32px;height:32px;width:94px;top:8px;opacity:0;float:right;left:255px;pointer-events:none;position:relative;transition:opacity .5s ease-in,left .5s ease-in}.s2tb .google-logo{opacity:0.54;left:270px;transition:opacity .5s ease-out,left .5s ease-out}.s2fp .spchc,.s2fp-h .spchc{margin:auto;margin-top:312px;max-width:572px;min-width:534px;padding:0 223px;position:relative;top:0}.s2tb .spchc,.s2tb-h .spchc{background:#fff;box-shadow:0 2px 6px rgba(0,0,0,.2);margin:0;min-width:100%;overflow:hidden;padding:51px 0 50px 126px;position:absolute}.s2tb-h .inner-container,.s2tb .inner-container{height:100%;width:572px;transition:opacity .318s ease-in}.spch.s2tb.mVRQbc{background:rgba(255,255,255,0.9)}.button{background-color:#fff;border:1px solid #eee;border-radius:100%;bottom:0;box-shadow:0 2px 5px rgba(0,0,0,.1);cursor:pointer;display:inline-block;left:0;opacity:0;pointer-events:none;position:absolute;right:0;top:0;transition:background-color 0.218s,border 0.218s,box-shadow 0.218s}.s2tb-h .button{left:-83px;opacity:0;pointer-events:none;position:absolute;top:-83px;transition-delay:0}.s2fp-h .button,.s2fpm-h .button{opacity:0;pointer-events:none;position:absolute;transition-delay:0}.s2fp .button,.s2tb .button,.s2fpm .button{opacity:1;pointer-events:auto;position:absolute;transform:scale(1);transition-delay:0}.s2ra .button{background-color:#f44;border:0;box-shadow:none}.r8s4j{background-color:#dbdbdb;border-radius:100%;display:inline-block;height:301px;left:-69px;opacity:1;pointer-events:none;position:absolute;top:-69px;width:301px;transform:scale(.01);transition:opacity 0.218s}.s2tb-h .r8s4j,.s2tb .r8s4j{height:151px;left:-28px;top:-28px;width:151px}.button-container{pointer-events:none;position:relative;transition:transform 0.218s,opacity 0.218s ease-in}.s2fp-h .button-container,.s2fp .button-container{height:165px;right:-70px;top:-70px;width:165px;float:right}.s2fpm-h .button-container,.s2fpm .button-container{height:165px;margin:0 auto;top:150px;width:165px}.s2fp-h .button-container,.s2tb-h .button-container,.s2fpm-h .button-container{transform:scale(.1)}.s2fp .button-container,.s2fpm-h .button-container,.s2tb .button-container{transform:scale(1)}.s2tb-h .button-container,.s2tb .button-container{height:95px;right:-31px;top:-27px;width:95px;float:right}.s2ra .button:active{background-color:#cd0000}.button:active{background-color:#eee}.microphone{height:87px;left:43px;pointer-events:none;position:absolute;top:47px;width:42px;transform:scale(1)}.s2tb-h .microphone,.s2tb .microphone{left:17px;top:7px;transform:scale(.53)}.receiver{background-color:#999;border-radius:30px;height:46px;left:25px;pointer-events:none;position:absolute;width:24px}.wrapper{bottom:0;height:53px;left:11px;overflow:hidden;pointer-events:none;position:absolute;width:52px}.stem{background-color:#999;bottom:14px;height:14px;left:22px;pointer-events:none;position:absolute;width:9px;z-index:1}.shell{border:7px solid #999;border-radius:28px;bottom:27px;height:57px;pointer-events:none;position:absolute;width:38px;z-index:0;left:0px}.s2ml .receiver,.s2ml .stem{background-color:#f44}.s2ml .shell{border-color:#f44}.s2ra .receiver,.s2ra .stem{background-color:#fff}.s2ra .shell{border-color:#fff}.text-container{pointer-events:none}.s2fp-h .text-container,.s2fp .text-container,.s2fpm-h .text-container,.s2fpm .text-container{position:absolute}.s2tb-h .text-container,.s2tb .text-container{position:relative}.spcht{font-weight:normal;line-height:1.2;opacity:0;pointer-events:none;position:absolute;text-align:left;-webkit-font-smoothing:antialiased;transition:opacity .1s ease-in,margin-left .5s ease-in,top 0s linear 0.218s}.s2fp-h .spcht,.s2fpm-h .spcht{margin-left:44px}.s2tb-h .spcht{margin-left:32px}.s2fp-h .spcht,.s2fp .spcht,.s2fpm-h .spcht,.s2fpm .spcht{left:-44px;top:-.2em}.s2fp-h .spcht,.s2fp .spcht{font-size:32px;width:460px}.s2fpm-h .spcht,.s2fpm .spcht{font-size:28px;width:300px}.s2tb-h .spcht,.s2tb .spcht{font-size:27px;left:7px;top:.2em;width:490px}.s2fp .spcht,.s2fpm .spcht,.s2tb .spcht{margin-left:0;opacity:1;transition:opacity .5s ease-out,margin-left .5s ease-out}.spchta{color:#15c;cursor:pointer;font-size:18px;font-weight:500;pointer-events:auto;text-decoration:underline}.spch-2l.spcht,.spch-3l.spcht,.spch-4l.spcht{transition:top 0.218s ease-out}.spch-2l.spcht{top:-.6em}.spch-3l.spcht{top:-1.3em}.spch-4l.spcht{top:-1.7em}.s2fp .spch-5l.spcht{top:-2.5em}.s2tb .spch-5l.spcht{font-size:24px;top:-1.7em;transition:font-size 0.218s ease-out}.permission-bar{margin-top:-100px;opacity:0;pointer-events:none;position:absolute;width:500px;transition:opacity 0.218s ease-in,margin-top .4s ease-in}.s2wfp .permission-bar{margin-top:-300px;opacity:1;transition:opacity .5s ease-out 0.218s,margin-top 0.218s ease-out 0.218s}.permission-bar-gradient{box-shadow:0 1px 0px #4285f4;height:80px;left:0;margin:0;opacity:0;pointer-events:none;position:fixed;right:0;top:-80px;transition:opacity 0.218s,box-shadow 0.218s}.s2wfp .permission-bar-gradient{box-shadow:0 1px 80px #4285f4;opacity:1;pointer-events:none;animation:allow-alert .75s 0 infinite;animation-direction:alternate;animation-timing-function:ease-out;transition:opacity 0.218s,box-shadow 0.218s}@-webkit-keyframes allow-alert {from{opacity:1}to{opacity:.35}}</style><dialog class="spch-dlg" id="spch-dlg"><div class="spch s2fp-h" style="display:none" id="spch"></div></dialog><div jscontroller="fEVMic" style="display:none" data-u="0" jsdata="C4mkuf;_;BOafyo" jsaction="rcuQ6b:npT2md"></div><div class="content" id="main"><span class="ctr-p" id="body"><center><div jscontroller="cvn5cb" data-responsive-height-resize="536" data-responsive-min-height="100" data-responsive-min-width="980" id="lga" jsaction="rcuQ6b:npT2md"><style>#lga{height:233px;margin-top:89px}@media only screen and (max-height:768px){#lga{margin-top:47px}}</style><div style="padding-top:109px"><style>#hplogo{background:url(/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png) no-repeat;}@media (-webkit-max-device-pixel-ratio:1),(max-resolution:96dpi){#hplogo{background:url(/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) no-repeat}}</style><div style="background-size:272px 92px;height:92px;width:272px" title="Google Images" id="hplogo" align="left"><div class="logo-subtext"><span>images</span></div></div></div></div><div style="height:51px"></div><div style="margin-top:12px"><div id="prm"></div><script nonce="hhEK2svUQjnhwbUyDFIdrw==">window.gbar&&gbar.up&&gbar.up.tp&&gbar.up.tp();</script></div></center></span><div class="ctr-p" id="footer"><style>.M6hT6{left:0;right:0;-webkit-text-size-adjust:none}.fbar a{text-decoration:none;white-space:nowrap}.fbar{margin-left:-27px}.Fx4vi{padding-left:27px;margin:0 !important}#fsl{white-space:nowrap}.f6F9Be{background:#f2f2f2;line-height:40px;min-width:980px;border-top:1px solid #dadce0;}.B4GxFc{margin-left:166px}.fbar p,.fbar a{color:#70757a}.fbar a:hover{color:#3c4043}.fbar{font-size:14px}.EvHmz{bottom:0;left:0;position:absolute;right:0}.hRvfYe a:hover{text-decoration:underline}#fsl{margin-left:30px;}#fsr{float:right;margin-right:30px;white-space:nowrap;}.b0KoTc{color:rgba(0,0,0,.54);padding-left:27px}.b0KoTc{margin-left:30px;text-align:left}.b2hzT{border-bottom:1px solid #dadce0}.Q8LRLc{font-size:15px}.j9xd9b{display:inline-block}.cF4V5c{background-color:#fff}.cF4V5c g-menu-item{display:block;font-size:14px;line-height:23px;white-space:nowrap}.cF4V5c g-menu-item a,.cF4V5c .y0fQ9c{display:block;padding-top:4px;padding-bottom:4px;cursor:pointer}.cF4V5c g-menu-item a,.cF4V5c g-menu-item a:visited,.cF4V5c g-menu-item a:hover{text-decoration:inherit;color:inherit}.EwsJzb{display:block;position:absolute}.rIbAWc{cursor:pointer;display:inline-block}.sAKBe{border-radius:8px;box-shadow:0 2px 10px 0 rgba(0,0,0,0.2)}.gLSAk{border:none;display:block;outline:none;}.gLSAk{border-radius:8px}.gLSAk{padding:5px 0}.ErsxPb{display:block;position:relative}.znKVS{overflow:hidden;padding:0 16px;text-overflow:ellipsis;vertical-align:middle;white-space:nowrap}.znKVS.tnhqA{padding:0}.tnhqA>*{padding:0 16px}.ohSfHb .znKVS{padding-left:28px}.ErsxPb:hover{cursor:pointer}.ErsxPb,.fbKdEb:hover{cursor:default}.dPaec,g-menu-item[disabled]{pointer-events:none;cursor:default}.dPaec{border-top:1px solid;height:0;margin:5px 0}.znKVS{line-height:23px}.fbKdEb{background:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png) no-repeat left center}.gvybPb,.ErsxPb:active{background-color:rgba(0, 0, 0, 0.1)}.dPaec,g-menu-item[disabled]{color:#cdcdcd !important}.dPaec{border-top-color:#ebebeb}</style><div id="fbarcnt"><div id="footcnt"><div class="EvHmz f6F9Be hRvfYe" id="fbar"><div class="fbar"><div class="b2hzT"><div class="b0KoTc"><span class="Q8LRLc">Pakistan</span></div></div><span id="fsr"><a class="JWaTvb Fx4vi" href="https://policies.google.com/privacy?hl=en-PK&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://policies.google.com/privacy%3Fhl%3Den-PK%26fg%3D1&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQ8awCCA0">Privacy</a><a class="JWaTvb Fx4vi" href="https://policies.google.com/terms?hl=en-PK&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://policies.google.com/terms%3Fhl%3Den-PK%26fg%3D1&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQ8qwCCA4">Terms</a><span class="j9xd9b" jscontroller="fWEITb" jsaction="KyPa0e:Y0y4c"><g-popup jsname="V68bde" jscontroller="NZI0Db" jsaction="A05xBd:IYtByb;" jsdata="mVjAjf;_;BOafys"><div jsname="oYxtQd"><a class="hide-focus-ring JWaTvb Fx4vi" aria-haspopup="true" role="button" jsaction="WFrRFb;keydown:uYT2Vb" href="https://www.google.com.pk/preferences?hl=en" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/preferences%3Fhl%3Den&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQzq0CCBA">Settings</a></div><div jsname="V68bde" class="EwsJzb sAKBe" style="display:none;z-index:1" id="_nDMkYIWPGorHgQb06amgAQ1"></div></g-popup></span></span><span id="fsl"><a class="JWaTvb Fx4vi" href="https://www.google.com.pk/intl/en_pk/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpafooter&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/intl/en_pk/ads/%3Fsubid%3Dww-ww-et-g-awa-a-g_hpafoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpafooter%26fg%3D1&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQkdQCCBM">Advertising</a><a class="JWaTvb Fx4vi" href="https://www.google.com.pk/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&amp;utm_source=google.com&amp;utm_medium=referral&amp;utm_campaign=google_hpbfooter&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.google.com.pk/services/%3Fsubid%3Dww-ww-et-g-awa-a-g_hpbfoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpbfooter%26fg%3D1&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQktQCCBQ">Business</a><a class="JWaTvb Fx4vi" href="https://about.google/?utm_source=google-PK&amp;utm_medium=referral&amp;utm_campaign=hp-footer&amp;fg=1" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://about.google/%3Futm_source%3Dgoogle-PK%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&amp;ved=0ahUKEwiFzZakhuDuAhWKY8AKHfR0ChQQkNQCCBU">About</a><a class="JWaTvb Fx4vi" href="https://google.com/search/howsearchworks/?fg=1">  How Search works </a></span></div></div></div></div></div><div id="footc">  <script nonce="hhEK2svUQjnhwbUyDFIdrw==">(function(){var u='/xjs/_/js/k\x3dxjs.s.en_GB.kIVloeS40ig.O/ck\x3dxjs.s.V2GOm02MGKg.L.W.O/m\x3dcdos,dpf,hsm,jsa,d,csi/am\x3dAAAAAAAAAAAAAIAABgAAAABLYA8I-G8CgAs2cQAAAAAAAOCSoFFoQEJBAAAAAABZXS0AEA/d\x3d1/dg\x3d2/br\x3d1/ct\x3dzgms/rs\x3dACT90oFxs5KSz-yHdYHwmK9Wn5Z-_idCFA';
+
+https://www.google.com.pk/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+--------------------------------------------------
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></picture>
+
+https://www.google.com.pk/intl/en/chrome/business/?utm_medium=et&utm_source=bizsol_worksmarter&utm_campaign=explore
+--------------------------------------------------
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) -->
+<!-- LOCK up-->
+<!-- SKIP -->
+<!-- LOGO -->
+<!-- NAV LINKS -->
+<!-- CTAS -->
+
+http://www.google.com/devices/#devices
+--------------------------------------------------
+/*","/brandaccounts/managers/:account_id"],"FdrFJe":"-5949293723131121049","Im6cmf":"/_/AccountSettingsUi","L2NrXc":"%.@.[5,3,\"boq_identityaccountsettingsuiserver_20210207.16_p0\"]\n]\n","LVIXXb":1,"LoQv7e":false,"MT7f9b":[],"QrtxK":"","R6pIad":"%.@.]\n","S06Grb":"","S1NZmd":false,"Yllh3e":"%.@.1612985254894997,182506919,1192168364]\n","cfb2h":"boq_identityaccountsettingsuiserver_20210207.16_p0","eNnkwf":"1612985252","eptZe":"/_/AccountSettingsUi/","fPDxwd":[1757124,1763433,1772879],"gGcLoe":false,"nQyAE":{"cuczuc":"false","paTyHb":"false","o5m0sd":"false","yZUqq":"false","fnK2zb":"true","PhI4fe":"false","gVZVHe":"false","b6J1nc":"false","jVnXaf":"false","skvo1c":"true","wGiqud":"true","YpIwud":"true","ldnYGb":"true","u6cY8d":"false","x3npbd":"false","CMWTn":"false","zohakd":"true","WZkgqd":"false","sgc1xc":"true","b65ktb":"true","UPjsBe":"false","Ldabuf":"false","VkHBpc":"false","ItpMeb":"true","K065nc":"true","Xaxnge":"false","PdNwNe":"false","RZCj1d":"false","WuQZod":"false","EJrfQd":"true","b6EOJb":"false","RIRzwc":"true","uafwne":"true","GtV0Od":"true","BJ2BLe":"true","VQ1BKc":"false","RdCTbd":"true","ShZQXc":"false","fZOi3":"false","zupSCc":"false","p3jHS":"false","ctGvEd":"true","YUrA3e":"false","QmG0Qe":"true","u6fYuf":"true","C6e5Cd":"true","OJomWb":"true","hZrmV":"true","CJWBr":"true","m3432b":"false","M4aeqf":"true","jUrHO":"true","hiJihc":"true","L1AsR":"false","Z2TPlc":"false","D34eed":"false","t13dFd":"false","ibpjR":"true","uob8rb":"true","TGLG9c":"false","oAUeDe":"true","zsXtOc":"false","WwJ2hc":"true","Em941c":"false","aEwh0c":"false","Sd9mOb":"false","fYTJue":"false","KHiAnb":"false","MO7WQe":"false","ZdOvKc":"false","wO2J8d":"false","iuNhXc":"fm","TmoxD":"false","Jmhsne":"false","PK2a6c":"false","LjQr9c":"false","wcLcde":"false","tBSlob":"false","RYf0Cb":"false","A71CTb":"false","RvHZab":"false","ppj5c":"true","ezyfGf":"false","b76jid":"false","nPTMM":"false","oZRKzd":"true","KcSCBe":"true","xt1O2c":"true","cJEXnd":"false","fNT2x":"true","yUY9sd":"true","f6wWnc":"false","sqqBkd":"true","gdtY7b":"false","o7WYSc":"true","vZ90Lb":"true","vgJwye":"false","PCxUmc":"false","rWUO5":"true","r8AUDd":"true","JZWJjc":"false","vz9tob":"false","ewbXg":"true","i995Se":"true","J2SrR":"true","nShks":"true","J7a75":"false","p1D72d":"true","rE56Fb":"false","yQLy5b":"false","mcrBmf":"true","k7ZD5c":"false","yiFgyf":"true","QgWxEd":"true","FZi5df":"true","Vbdaze":"true","vWC9Rb":"false","Sv1bN":"true","oAns1":"false","CjMgTe":"false","PQB7nd":"true"},"qwAQke":"AccountSettingsUi","qymVe":"jQhcE5EM6ZJOkDpMUrw9KuJejTc","rtQCxc":-300,"thykhd":"AKH95ese4Lk5KGtMvb6reQS1axQLqw2IZXdO9mmUrq_-pkrxrZfp1bqhRQokOUeglVIn686xN2GI9u6W7YtXmyR8zV2EwEz1FZkQT5qSXIOriQRjHaDOWtHqDkyGYW7VskuzWUyE","uSj0Kd":false,"w2btAe":"%.@.null,null,\"\",false,null,null,true,false]\n","zChJod":"%.@.]\n"};</script><script nonce="HIiTB5UzlOtvmy3Ylpch7w">(function(){/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+/*# sourceURL=/_/mss/boq-identity/_/ss/k=boq-identity.AccountSettingsUi.h0wRLfwmrwU.L.B1.O/am=yG3LO8v_Sv1_lWNKGPwAAAAAAAAIcAThbQs/d=1/ed=1/ct=zgms/rs=AOaEmlGuruB3Oa95G7XWrd4s-moma-i90g/m=googleaccountsecurityintroview,_b,_tp */
+//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu72xKOzY.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxKOzY.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7mxKOzY.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4WxKOzY.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7WxKOzY.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Material Icons Extended';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/materialiconsextended/v64/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvJ.woff2)format('woff2');}.material-icons-extended{font-family:'Material Icons Extended';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Google Material Icons';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlematerialicons/v30/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2)format('woff2');}.google-material-icons{font-family:'Google Material Icons';font-weight:normal;font-style:normal;font-size:24px;line-height:1;letter-spacing:normal;text-transform:none;display:inline-block;white-space:nowrap;word-wrap:normal;direction:ltr;-webkit-font-feature-settings:'liga';-webkit-font-smoothing:antialiased;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVGdeOcEg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Product Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Kwp5MKg.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Nwp5MKg.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Bwp5MKg.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Awp5MKg.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtwCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94Yt9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:500;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154t3CwZ-Pw.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154twCwZ-Pw.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154t8CwZ-Pw.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154t9CwZ-Pw.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Google Sans';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154tzCwY.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style><script nonce="HIiTB5UzlOtvmy3Ylpch7w">(function(){/*
+
+https://www.google.com/account/about
+--------------------------------------------------
+
+https://www.google.com/
+--------------------------------------------------
+/*
+
+ Copyright The Closure Library Authors.
+ SPDX-License-Identifier: Apache-2.0
+*/
+// Google Inc.
+
+https://www.google.com/intl/en_pk/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+--------------------------------------------------
+<!--[if !IE]> -->
+<!-- <![endif]-->
+<!--[if IE]>
+  <picture class="animation--onload-trigger ">
+    <img src="https://lh3.googleusercontent.com/sOvaO_W4_mjyiYE3GzlJ9-epjoEp9JeOe9FpjuQxMuhAy80Ubq6hjeXHI7FwIib7mq5ky4IphfBup4B3IW0ZCKit4ghqCBSXq4Mm=w0"
+        class="gads-phone__img "
+        alt="">
+  </picture>
+  <![endif]-->
+<!--[if IE]>
+  <picture class="">
+    <img src="https://lh3.googleusercontent.com/Jj0crC4HsePUVxZbEa8Pahhs62AodEDBWMdxXGXJeCRqQ9pUhJ8bqo4eS8DaztCqw0oqnGbZVnn_4BlqW57X5Rn3pnGREGKpAVqnfg=w0"
+        class="google_logo "
+        alt="">
+  </picture>
+  <![endif]-->
+<!--[if IE]>
+  <picture class="">
+    <img src="https://lh3.googleusercontent.com/8tieHOEn-Cy8_hhkVEJcylAl3AiYVWICIccMkIPpSLHQtIA6snS90KvPnK16EnROGpco2JhPCfevJkPkRlcy0uLaQUH3RC8IZJ2J8A=w0"
+        class="optimization-module__logo-img "
+        alt="">
+  </picture>
+  <![endif]-->
+<!-- material design icons -->
+<!-- Social icons -->
+<!-- hercules icons -->
+
+https://www.google.com/retail/solutions/shopping-campaigns/
+--------------------------------------------------
+<!--googleoff: all-->
+<!--googleon: all-->
+
+http://www.google.com/retail/solutions/smart-shopping-campaigns/
+--------------------------------------------------
+
