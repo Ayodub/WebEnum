@@ -29,4 +29,4 @@ Save URLs to a file named list.txt, each separated by a single line. Directory b
 
 Import the URL into the GUI on the home tab.
 
-Press Crawl.
+Press 'Start Crawling'.
