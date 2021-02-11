@@ -20,3 +20,13 @@ WebEnum takes a list.txt of URL directories. This list should be generated with 
 
 ![alt text](https://github.com/Ayodub/WebEnum/blob/main/images/interface.png?raw=true)
 
+
+Usage:
+
+pip install -r requirements.txt
+
+Save URLs to a file named list.txt, each separated by a single line. Directory buster tools usually have a switch to allow you to save the output as a simple list.
+
+Import the URL into the GUI on the home tab.
+
+Press Crawl.
