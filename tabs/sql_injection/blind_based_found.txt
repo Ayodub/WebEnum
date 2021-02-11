@@ -1,0 +1,1 @@
+http://10.10.83.27/sqli-labs/Less-1/index.php?id='
