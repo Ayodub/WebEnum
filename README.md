@@ -11,7 +11,7 @@ WebEnum takes a list.txt of URL directories. This list should be generated with 
 
 - Command Injection: WebEnum will perform very simple command injection fuzzing in forms and URL parameters. There is no auto-exploitation, and it only checks for the simplest payloads. This is simply meant to save time from manually testing simple payloads in every form and URL parameter. If a command seems successful it will then be up to the user to find out how to exploit this.
 
-- Local File Inclusion: Simple enumeration of URL parameters looking for the /etc/passwd file. This is tested with a simply payload list containing different path lengths and encodings.
+- Local File Inclusion: Simple enumeration of URL parameters looking for the /etc/passwd file. This is tested with a simple payload list containing different path lengths and encodings.
 
 - SQL Injection: Simple enumeration of forms and URL parameters for error based, time based, and blind SQL injections. This fuzzer does not attempt deeper enumeration or exploitation of vulnerabilities, but simply confirms if there may be a vulnerability at one of the input fields.
 
